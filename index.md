@@ -98,6 +98,7 @@ Signed (27 April 2021):
 * Olushola Akinmolayan
 * Paolo G. Giarrusso
 * Pere Villega
+* Peter Hilton
 * Peter László
 * Rebecca Mark
 * Rob Norris
