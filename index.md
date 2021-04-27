@@ -87,6 +87,7 @@ Signed (27 April 2021):
 * Kelsey Gilmore-Innis
 * kf Fellows
 * Lars Hupel
+* Lexi Galantino
 * Loránd Szakács
 * Luis Miguel Mejía Suárez
 * Luka Jacobowitz
