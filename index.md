@@ -10,7 +10,7 @@ We, the undersigned, have become aware that, for some time, Jon Pretty has abuse
 
 We state this based on multiple, independent, well-substantiated reports showing a systematic pattern of behavior over an extended period.
 
-Mr. Pretty’s behavior is unacceptable. It is morally repugnant on its face. It directly damages the women involved, sometimes causing lasting trauma. It also indirectly damages the Scala community by creating a more toxic environment, especially for women and newcomers.
+Mr. Pretty’s behavior is unacceptable. It is morally repugnant on its face. It directly damages the women involved causing lasting trauma. It also indirectly damages the Scala community by creating a more toxic environment, especially for women and newcomers.
 
 We demand that Mr. Pretty cease using technical gatherings, within the Scala community or elsewhere, to prey on women. We request that any organization in which Mr. Pretty serves in a leadership or advisory capacity immediately cut ties with him. We call upon organizations and conference organizers to strengthen their codes of conduct to explicitly forbid such behavior.
 
