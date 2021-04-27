@@ -101,6 +101,7 @@ Signed:
 * Kelsey Gilmore-Innis
 * Ken Scambler
 * kf Fellows
+* Lars Albertsson
 * Lars Hupel
 * Lexi Galantino
 * Loránd Szakács
