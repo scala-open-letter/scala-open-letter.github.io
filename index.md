@@ -29,6 +29,7 @@ Signed (27 April 2021):
 
 * Adelbert Chang
 * Adrienne L. Travis
+* Alex Cameron
 * Alex Merritt
 * April Hyacinth
 * Andrew Gustafson
