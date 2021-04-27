@@ -36,6 +36,7 @@ Signed (27 April 2021):
 * Alex Merritt
 * Alexandru Nedelcu
 * April Hyacinth
+* Andreas Drobisch
 * Andrew Gustafson
 * Andy Scott
 * Antonio Gelameris
@@ -50,7 +51,6 @@ Signed (27 April 2021):
 * Christophe Junke
 * Christopher Davenport
 * Clement Delafargue
-* Craig Treptow
 * Daniel Hinojosa
 * Daniel Spiewak
 * Daniela Sfregola
@@ -64,7 +64,6 @@ Signed (27 April 2021):
 * Eda Meadows
 * Eddie Kay
 * Erik Osheim
-* Ethan Suntag
 * Eugene Yokota
 * Fabio Labella
 * Flavio Brasil
@@ -75,10 +74,8 @@ Signed (27 April 2021):
 * James Fielder
 * Jamie Allen
 * Jasna Rodulfa-Blemberg
-* Jason Martens
 * Jean Yang
 * Jeremy Rose
-* Jeremy Smith
 * Jian Lan
 * Joe Lewis
 * Joshua Conner
