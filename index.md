@@ -64,6 +64,7 @@ Signed:
 * Danny McClanahan
 * Dario Abdulrehman
 * Dave Pereira-Gurnell
+* David Barri
 * David Gregory
 * Davis Zanot
 * Dean Wampler
