@@ -35,6 +35,7 @@ Signed (27 April 2021):
 * Christopher Davenport
 * Clement Delafargue
 * Daniel Spiewak
+* Davis Zanot
 * Dean Wampler
 * Erik Osheim
 * Eugene Yokota
