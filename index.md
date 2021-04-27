@@ -50,6 +50,7 @@ Signed (27 April 2021):
 * Kelsey Gilmore-Innis
 * kf Fellows
 * Lars Hupel
+* Loránd Szakács
 * Luka Jacobowitz
 * Michael Pilquist
 * Miles Sabin
