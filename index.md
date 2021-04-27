@@ -39,12 +39,14 @@ Signed (27 April 2021):
 * Bodil Stokke
 * Brian Clapper
 * Britany Meadows
+* Channing Walton
 * Chris Kipp
 * Christopher Davenport
 * Clement Delafargue
 * Daniel Spiewak
 * Daniela Sfregola
 * Danny McClanahan
+* David Gregory
 * Davis Zanot
 * Dean Wampler
 * Dragisa Krsmanovic
@@ -59,6 +61,7 @@ Signed (27 April 2021):
 * Holden Karau
 * Jamie Allen
 * Jasna Rodulfa-Blemberg
+* Jean Yang
 * Jeremy Rose
 * Jian Lan
 * Joe Lewis
@@ -71,6 +74,8 @@ Signed (27 April 2021):
 * Loránd Szakács
 * Luis Miguel Mejía Suárez
 * Luka Jacobowitz
+* Marc Ramírez
+* Mark Tomko
 * Mark "Justin du Coeur" Waks
 * Martijn Hoekstra
 * Mathis Randl
@@ -94,6 +99,7 @@ Signed (27 April 2021):
 * Stephen Lazaro
 * Stew O’Connor
 * Thomas Lockney
+* Todd Burnside
 * Travis Brown
 * Vasil Vasilev
 * Yao Li
