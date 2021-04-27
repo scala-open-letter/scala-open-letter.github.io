@@ -42,6 +42,7 @@ Signed (27 April 2021):
 * Clement Delafargue
 * Daniel Spiewak
 * Daniela Sfregola
+* Danny McClanahan
 * Davis Zanot
 * Dean Wampler
 * Dragisa Krsmanovic
