@@ -35,6 +35,7 @@ Signed (27 April 2021):
 * Antonio Gelameris
 * Bodil Stokke
 * Brian Clapper
+* Chris Kipp
 * Christopher Davenport
 * Clement Delafargue
 * Daniel Spiewak
