@@ -56,6 +56,7 @@ Signed (27 April 2021):
 * Travis Brown
 * Zach McCoy
 * Zainab Ali
+* Andy Scott
 
 ### Additional information
 
