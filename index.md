@@ -54,6 +54,7 @@ Signed (27 April 2021):
 * David Gregory
 * Davis Zanot
 * Dean Wampler
+* Derek Mortimer
 * Dragisa Krsmanovic
 * Dylan Martin
 * Eda Meadows
