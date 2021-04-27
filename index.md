@@ -31,6 +31,7 @@ Signed (27 April 2021):
 * Adrienne L. Travis
 * Bodil Stokke
 * Brian Clapper
+* Clement Delafargue
 * Dean Wampler
 * Erik Osheim
 * Eugene Yokota
