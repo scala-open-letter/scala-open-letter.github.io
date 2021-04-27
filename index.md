@@ -132,6 +132,7 @@ Signed:
 * Raúl Raja
 * Rebecca Mark
 * Renato Cavalcanti
+* Rhys Sharrem
 * Richard Costine
 * Richard Dallaway
 * Rishabh Agarwal
