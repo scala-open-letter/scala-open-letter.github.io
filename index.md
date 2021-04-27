@@ -52,6 +52,7 @@ Signed (27 April 2021):
 * Heather Miller
 * Holden Karau
 * Jamie Allen
+* Jian Lan
 * Joe Lewis
 * Joshua Conner
 * Kelley Robinson
