@@ -39,6 +39,7 @@ Signed (27 April 2021):
 * Bodil Stokke
 * Brian Clapper
 * Britany Meadows
+* Channing Walton
 * Chris Kipp
 * Christopher Davenport
 * Clement Delafargue
