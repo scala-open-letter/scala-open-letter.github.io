@@ -47,6 +47,7 @@ Signed (27 April 2021):
 * Chris Kipp
 * Christopher Davenport
 * Clement Delafargue
+* Craig Treptow
 * Daniel Hinojosa
 * Daniel Spiewak
 * Daniela Sfregola
