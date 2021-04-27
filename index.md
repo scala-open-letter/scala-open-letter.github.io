@@ -31,6 +31,7 @@ Signed (27 April 2021):
 * Adrienne L. Travis
 * Aleksander Sumowski
 * Alex Cameron
+* Alex Levenson
 * Alex Merritt
 * April Hyacinth
 * Andrew Gustafson
