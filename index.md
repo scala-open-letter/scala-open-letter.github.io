@@ -116,6 +116,7 @@ Signed:
 * Rafał Krzewski
 * Raúl Raja
 * Rebecca Mark
+* Renato Cavalcanti
 * Richard Dallaway
 * Rishabh Agarwal
 * Rob Norris
