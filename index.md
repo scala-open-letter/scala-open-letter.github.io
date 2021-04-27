@@ -52,6 +52,7 @@ Signed (27 April 2021):
 * Michael Pilquist
 * Miles Sabin
 * Noel Welsh
+* Pere Villega
 * Rob Norris
 * Ross A. Baker
 * Ryan Tanner
@@ -61,7 +62,6 @@ Signed (27 April 2021):
 * Travis Brown
 * Zach McCoy
 * Zainab Ali
-* Pere Villega
 
 
 ### Additional information
