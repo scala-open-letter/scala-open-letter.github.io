@@ -110,6 +110,7 @@ Signed (27 April 2021):
 * Todd Burnside
 * Travis Brown
 * Vasil Vasilev
+* Will Sargent
 * Yann Simon
 * Yao Li
 * Yilin Wei
