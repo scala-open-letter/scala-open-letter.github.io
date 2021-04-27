@@ -64,6 +64,7 @@ Signed (27 April 2021):
 * Eda Meadows
 * Eddie Kay
 * Erik Osheim
+* Ethan Suntag
 * Eugene Yokota
 * Fabio Labella
 * Flavio Brasil
