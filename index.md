@@ -67,6 +67,7 @@ Signed (27 April 2021):
 * Jasna Rodulfa-Blemberg
 * Jean Yang
 * Jeremy Rose
+* Jeremy Smith
 * Jian Lan
 * Joe Lewis
 * Joshua Conner
