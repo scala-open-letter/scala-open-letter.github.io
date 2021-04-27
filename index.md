@@ -54,6 +54,7 @@ Signed (27 April 2021):
 * Seth Tisue
 * Stew O’Connor
 * Travis Brown
+* Zach McCoy
 * Zainab Ali
 
 ### Additional information
