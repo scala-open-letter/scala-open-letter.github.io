@@ -50,6 +50,7 @@ Signed (27 April 2021):
 * Holden Karau
 * Jamie Allen
 * Joe Lewis
+* Joshua Conner
 * Kelley Robinson
 * Kelsey Gilmore-Innis
 * kf Fellows
