@@ -69,6 +69,7 @@ Signed (27 April 2021):
 * Ryan Tanner
 * Ryan Williams
 * Seth Tisue
+* Somdev Sangwan
 * Stephen Lazaro
 * Stew O’Connor
 * Thomas Lockney
