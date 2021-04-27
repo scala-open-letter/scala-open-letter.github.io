@@ -30,12 +30,17 @@ Signed (27 April 2021):
 * Adelbert Chang
 * Adrienne L. Travis
 * April Hyacinth
+* Andrew Gustafson
 * Bodil Stokke
 * Brian Clapper
+* Christopher Davenport
+* Clement Delafargue
+* Daniel Spiewak
 * Dean Wampler
 * Erik Osheim
 * Eugene Yokota
 * Heather Miller
+* Holden Karau
 * Jamie Allen
 * Kelley Robinson
 * kf Fellows
@@ -50,6 +55,7 @@ Signed (27 April 2021):
 * Seth Tisue
 * Stew O’Connor
 * Travis Brown
+* Zach McCoy
 * Zainab Ali
 
 ### Additional information
