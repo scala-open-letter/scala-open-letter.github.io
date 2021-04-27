@@ -58,6 +58,7 @@ Signed (27 April 2021):
 * Holden Karau
 * Jamie Allen
 * Jasna Rodulfa-Blemberg
+* Jean Yang
 * Jeremy Rose
 * Jian Lan
 * Joe Lewis
@@ -99,7 +100,6 @@ Signed (27 April 2021):
 * Yilin Wei
 * Zach McCoy
 * Zainab Ali
-* Jean Yang
 
 
 ### Additional information
