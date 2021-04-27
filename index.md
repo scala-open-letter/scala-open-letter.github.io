@@ -33,7 +33,6 @@ Signed (27 April 2021):
 * Alex Cameron
 * Alex Levenson
 * Alex Merritt
-* Alexandru Nedelcu
 * April Hyacinth
 * Andrew Gustafson
 * Andy Scott
@@ -91,11 +90,9 @@ Signed (27 April 2021):
 * Milan van der Meer
 * Miles Sabin
 * Neville Li
-* Noel Georgi
 * Noel Welsh
 * Oscar Boykin
 * Olushola Akinmolayan
-* Paolo G. Giarrusso
 * Pere Villega
 * Peter László
 * Rebecca Mark
@@ -106,6 +103,7 @@ Signed (27 April 2021):
 * Ryan Tomczik
 * Ryan Williams
 * Seth Tisue
+* Sérgio Teixeira
 * Somdev Sangwan
 * Stephen Lazaro
 * Stew O’Connor
