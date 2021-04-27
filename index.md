@@ -56,6 +56,7 @@ Signed (27 April 2021):
 * Holden Karau
 * Jamie Allen
 * Jasna Rodulfa-Blemberg
+* Jeremy Rose
 * Joe Lewis
 * Joshua Conner
 * Kelley Robinson
