@@ -100,6 +100,7 @@ Signed:
 * Kelley Robinson
 * Kelsey Gilmore-Innis
 * Ken Scambler
+* Kevin Walter
 * kf Fellows
 * Lars Hupel
 * Lexi Galantino
