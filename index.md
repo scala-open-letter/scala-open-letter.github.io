@@ -58,6 +58,7 @@ Signed (27 April 2021):
 * Holden Karau
 * Jamie Allen
 * Jasna Rodulfa-Blemberg
+* Jean Yang
 * Jeremy Rose
 * Jian Lan
 * Joe Lewis
@@ -70,6 +71,7 @@ Signed (27 April 2021):
 * Loránd Szakács
 * Luis Miguel Mejía Suárez
 * Luka Jacobowitz
+* Marc Ramírez
 * Mark Tomko
 * Mark "Justin du Coeur" Waks
 * Martijn Hoekstra
