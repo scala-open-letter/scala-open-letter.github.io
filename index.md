@@ -118,6 +118,7 @@ Signed:
 * Pere Villega
 * Peter Hilton
 * Peter László
+* Pierre Dal-Pra
 * Rafał Krzewski
 * Rahul Goma Phulore
 * Raphaél Parrée
