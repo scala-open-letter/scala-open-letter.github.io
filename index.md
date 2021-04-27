@@ -29,6 +29,7 @@ Signed (27 April 2021):
 
 * Adelbert Chang
 * Adrienne L. Travis
+* April Hyacinth
 * Andrew Gustafson
 * Bodil Stokke
 * Brian Clapper
