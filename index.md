@@ -41,6 +41,7 @@ Signed:
 * Alexandru Nedelcu
 * Andreas Drobisch
 * Andrew Gustafson
+* Andrew Valencik
 * Andy Scott
 * Antonio Gelameris
 * April Hyacinth
