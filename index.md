@@ -65,6 +65,7 @@ Signed (27 April 2021):
 * Guillaume Bogard
 * Heather Miller
 * Holden Karau
+* James Fielder
 * Jamie Allen
 * Jasna Rodulfa-Blemberg
 * Jean Yang
