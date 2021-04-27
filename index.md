@@ -95,6 +95,7 @@ Signed (27 April 2021):
 * Pere Villega
 * Peter László
 * Rebecca Mark
+* Richard Dallaway
 * Rob Norris
 * Ross A. Baker
 * Ryan Peters
