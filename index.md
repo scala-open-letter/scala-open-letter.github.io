@@ -50,6 +50,7 @@ Signed (27 April 2021):
 * Eugene Yokota
 * Flavio Brasil
 * Frank Thomas
+* Guillaume Bogard
 * Heather Miller
 * Holden Karau
 * Jamie Allen
