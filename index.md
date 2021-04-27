@@ -39,6 +39,7 @@ Signed (27 April 2021):
 * Bodil Stokke
 * Brian Clapper
 * Britany Meadows
+* Channing Walton
 * Chris Kipp
 * Christopher Davenport
 * Clement Delafargue
@@ -97,7 +98,6 @@ Signed (27 April 2021):
 * Travis Brown
 * Vasil Vasilev
 * Yao Li
-* Channing Walton
 * Yilin Wei
 * Zach McCoy
 * Zainab Ali
