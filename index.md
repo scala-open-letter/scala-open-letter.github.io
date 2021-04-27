@@ -76,6 +76,7 @@ Signed:
 * Guillaume Bogard
 * Heather Miller
 * Holden Karau
+* Idrees Khan
 * James Fielder
 * Jamie Allen
 * Jasna Rodulfa-Blemberg
