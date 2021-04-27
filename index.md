@@ -135,6 +135,7 @@ Signed:
 * Sathyaprakash Dhanabal
 * Sérgio Teixeira
 * Seth Tisue
+* Shadaj Laddad
 * Somdev Sangwan
 * Stephen Lazaro
 * Stew O’Connor
