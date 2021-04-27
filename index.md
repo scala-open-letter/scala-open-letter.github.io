@@ -97,6 +97,7 @@ Signed (27 April 2021):
 * Travis Brown
 * Vasil Vasilev
 * Yao Li
+* Channing Walton
 * Yilin Wei
 * Zach McCoy
 * Zainab Ali
