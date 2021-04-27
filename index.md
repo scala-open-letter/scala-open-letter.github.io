@@ -34,6 +34,7 @@ Signed (27 April 2021):
 * Andrew Gustafson
 * Andy Scott
 * Antonio Gelameris
+* Bart Schuller
 * Bodil Stokke
 * Brian Clapper
 * Britany Meadows
@@ -50,9 +51,11 @@ Signed (27 April 2021):
 * Eugene Yokota
 * Flavio Brasil
 * Frank Thomas
+* Guillaume Bogard
 * Heather Miller
 * Holden Karau
 * Jamie Allen
+* Jasna Rodulfa-Blemberg
 * Jeremy Rose
 * Joe Lewis
 * Joshua Conner
@@ -64,9 +67,11 @@ Signed (27 April 2021):
 * Luis Miguel Mejía Suárez
 * Luka Jacobowitz
 * Mark "Justin du Coeur" Waks
+* Martijn Hoekstra
 * Mathis Randl
 * Michael Pilquist
 * Miles Sabin
+* Neville Li
 * Noel Welsh
 * Oscar Boykin
 * Olushola Akinmolayan
@@ -77,6 +82,7 @@ Signed (27 April 2021):
 * Ross A. Baker
 * Ryan Peters
 * Ryan Tanner
+* Ryan Tomczik
 * Ryan Williams
 * Seth Tisue
 * Somdev Sangwan
@@ -84,6 +90,7 @@ Signed (27 April 2021):
 * Stew O’Connor
 * Thomas Lockney
 * Travis Brown
+* Vasil Vasilev
 * Zach McCoy
 * Zainab Ali
 
