@@ -59,6 +59,7 @@ Signed (27 April 2021):
 * Ryan Williams
 * Seth Tisue
 * Stew O’Connor
+* Thomas Lockney
 * Travis Brown
 * Zach McCoy
 * Zainab Ali
