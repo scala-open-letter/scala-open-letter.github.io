@@ -85,6 +85,7 @@ Signed:
 * Holden Karau
 * Idrees Khan
 * Imran Javaid
+* Jakub Kozłowski
 * James Fielder
 * Jamie Allen
 * Jasna Rodulfa-Blemberg
