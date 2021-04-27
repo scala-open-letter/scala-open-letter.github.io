@@ -36,6 +36,7 @@ Signed (27 April 2021):
 * Andrew Gustafson
 * Andy Scott
 * Antonio Gelameris
+* Attila Szegedi
 * Bart Schuller
 * Bodil Stokke
 * Brian Clapper
