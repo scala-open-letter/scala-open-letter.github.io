@@ -36,6 +36,7 @@ Signed (27 April 2021):
 * Andrew Gustafson
 * Andy Scott
 * Antonio Gelameris
+* Artie Pesh-Imam
 * Attila Szegedi
 * Bart Schuller
 * Bodil Stokke
@@ -54,6 +55,7 @@ Signed (27 April 2021):
 * Dragisa Krsmanovic
 * Dylan Martin
 * Eda Meadows
+* Eddie Kay
 * Erik Osheim
 * Eugene Yokota
 * Flavio Brasil
