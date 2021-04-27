@@ -54,6 +54,7 @@ Signed (27 April 2021):
 * Dragisa Krsmanovic
 * Dylan Martin
 * Eda Meadows
+* Eddie Kay
 * Erik Osheim
 * Eugene Yokota
 * Flavio Brasil
