@@ -76,6 +76,7 @@ Signed (27 April 2021):
 * Jason Martens
 * Jean Yang
 * Jeremy Rose
+* Jeremy Smith
 * Jian Lan
 * Joe Lewis
 * Joshua Conner
