@@ -70,6 +70,7 @@ Signed:
 * Ethan Suntag
 * Eugene Yokota
 * Fabio Labella
+* Filippo Costa
 * Flavio Brasil
 * Frank Thomas
 * Greg Pfeil
