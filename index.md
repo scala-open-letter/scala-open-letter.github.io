@@ -29,6 +29,7 @@ Our purpose in releasing this open letter is to bring attention to the issue and
 
 Signed:
 
+* Abhishek Srivastava
 * Adelbert Chang
 * Adrienne L. Travis
 * Albert Pastrana
