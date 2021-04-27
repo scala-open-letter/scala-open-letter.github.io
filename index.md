@@ -57,6 +57,7 @@ Signed (27 April 2021):
 * Jamie Allen
 * Jasna Rodulfa-Blemberg
 * Jeremy Rose
+* Jian Lan
 * Joe Lewis
 * Joshua Conner
 * Justin Pihony
