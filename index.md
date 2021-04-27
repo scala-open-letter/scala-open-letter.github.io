@@ -94,6 +94,7 @@ Signed (27 April 2021):
 * Thomas Lockney
 * Travis Brown
 * Vasil Vasilev
+* Yao Li
 * Yilin Wei
 * Zach McCoy
 * Zainab Ali
