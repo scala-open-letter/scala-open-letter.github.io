@@ -105,6 +105,7 @@ Signed (27 April 2021):
 * Peter László
 * Rafał Krzewski
 * Rebecca Mark
+* Richard Dallaway
 * Rob Norris
 * Ross A. Baker
 * Ryan Peters
