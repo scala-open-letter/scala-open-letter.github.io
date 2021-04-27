@@ -29,10 +29,12 @@ Signed (27 April 2021):
 
 * Adelbert Chang
 * Adrienne L. Travis
+* Albert Pastrana
 * Aleksander Sumowski
 * Alex Cameron
 * Alex Levenson
 * Alex Merritt
+* Alexandru Nedelcu
 * April Hyacinth
 * Andrew Gustafson
 * Andy Scott
@@ -45,6 +47,7 @@ Signed (27 April 2021):
 * Britany Meadows
 * Channing Walton
 * Chris Kipp
+* Christophe Junke
 * Christopher Davenport
 * Clement Delafargue
 * Daniel Hinojosa
@@ -60,11 +63,13 @@ Signed (27 April 2021):
 * Eddie Kay
 * Erik Osheim
 * Eugene Yokota
+* Fabio Labella
 * Flavio Brasil
 * Frank Thomas
 * Guillaume Bogard
 * Heather Miller
 * Holden Karau
+* James Fielder
 * Jamie Allen
 * Jasna Rodulfa-Blemberg
 * Jean Yang
@@ -84,17 +89,24 @@ Signed (27 April 2021):
 * Mark Tomko
 * Mark "Justin du Coeur" Waks
 * Martijn Hoekstra
+* Martin Kühl
 * Mathis Randl
 * Michael Pilquist
 * Milan van der Meer
 * Miles Sabin
+* Moses Nakamura
 * Neville Li
+* Noel Georgi
 * Noel Welsh
 * Oscar Boykin
 * Olushola Akinmolayan
+* Paolo G. Giarrusso
 * Pere Villega
+* Peter Hilton
 * Peter László
+* Rafał Krzewski
 * Rebecca Mark
+* Richard Dallaway
 * Rob Norris
 * Ross A. Baker
 * Ryan Peters
@@ -102,6 +114,7 @@ Signed (27 April 2021):
 * Ryan Tomczik
 * Ryan Williams
 * Sathyaprakash Dhanabal
+* Sérgio Teixeira
 * Seth Tisue
 * Somdev Sangwan
 * Stephen Lazaro
@@ -109,6 +122,7 @@ Signed (27 April 2021):
 * Thomas Lockney
 * Tobias Roeser
 * Todd Burnside
+* Tony Aldridge
 * Travis Brown
 * Vasil Vasilev
 * Yann Simon
