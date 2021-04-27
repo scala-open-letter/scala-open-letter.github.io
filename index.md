@@ -60,6 +60,7 @@ Signed:
 * Daniel Spiewak
 * Daniela Sfregola
 * Danny McClanahan
+* Dario Abdulrehman
 * Dave Pereira-Gurnell
 * David Gregory
 * Davis Zanot
