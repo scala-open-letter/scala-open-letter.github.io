@@ -31,6 +31,7 @@ Signed (27 April 2021):
 * Adrienne L. Travis
 * April Hyacinth
 * Andrew Gustafson
+* Andy Scott
 * Bodil Stokke
 * Brian Clapper
 * Christopher Davenport
@@ -60,7 +61,6 @@ Signed (27 April 2021):
 * Travis Brown
 * Zach McCoy
 * Zainab Ali
-* Andy Scott
 
 ### Additional information
 
