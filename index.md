@@ -89,6 +89,7 @@ Signed (27 April 2021):
 * Stew O’Connor
 * Thomas Lockney
 * Travis Brown
+* Vasil Vasilev
 * Zach McCoy
 * Zainab Ali
 
