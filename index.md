@@ -122,6 +122,7 @@ Signed:
 * Raphaél Parrée
 * Raúl Raja
 * Rebecca Mark
+* Renato Cavalcanti
 * Richard Costine
 * Richard Dallaway
 * Rishabh Agarwal
