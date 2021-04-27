@@ -99,6 +99,7 @@ Signed (27 April 2021):
 * Yilin Wei
 * Zach McCoy
 * Zainab Ali
+* Jean Yang
 
 
 ### Additional information
