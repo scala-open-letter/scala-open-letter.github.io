@@ -93,6 +93,7 @@ Signed:
 * Jeremy Rose
 * Jeremy Smith
 * Jian Lan
+* Jim Miller
 * Joe Lewis
 * Joshua Conner
 * Justin Pihony
