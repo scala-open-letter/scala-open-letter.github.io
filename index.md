@@ -47,6 +47,7 @@ Signed (27 April 2021):
 * Heather Miller
 * Holden Karau
 * Jamie Allen
+* Joe Lewis
 * Kelley Robinson
 * Kelsey Gilmore-Innis
 * kf Fellows
