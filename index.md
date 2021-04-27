@@ -25,7 +25,9 @@ We encourage others to adopt these same resolutions.
 
 Our purpose in releasing this open letter is to bring attention to the issue and to limit the ability of Mr. Pretty and others to use their reputations and influence within the industry as cover for sexually predatory behavior.
 
-Signed (27 April 2021):
+(Originally posted 27 April 2021.)
+
+Signed:
 
 * Adelbert Chang
 * Adrienne L. Travis
