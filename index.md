@@ -43,6 +43,7 @@ Signed (27 April 2021):
 * Dylan Martin
 * Erik Osheim
 * Eugene Yokota
+* Flavio Brasil
 * Heather Miller
 * Holden Karau
 * Jamie Allen
