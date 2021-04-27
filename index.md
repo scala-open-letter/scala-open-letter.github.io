@@ -59,6 +59,7 @@ Signed (27 April 2021):
 * kf Fellows
 * Lars Hupel
 * Loránd Szakács
+* Luis Miguel Mejía Suárez
 * Luka Jacobowitz
 * Mark "Justin du Coeur" Waks
 * Mathis Randl
