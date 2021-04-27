@@ -61,6 +61,7 @@ Signed (27 April 2021):
 * Eddie Kay
 * Erik Osheim
 * Eugene Yokota
+* Fabio Labella
 * Flavio Brasil
 * Frank Thomas
 * Guillaume Bogard
