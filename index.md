@@ -65,6 +65,7 @@ Signed (27 April 2021):
 * Noel Welsh
 * Oscar Boykin
 * Pere Villega
+* Peter László
 * Rebecca Mark
 * Rob Norris
 * Ross A. Baker
