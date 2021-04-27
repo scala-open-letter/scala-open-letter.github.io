@@ -115,6 +115,7 @@ Signed:
 * Oscar Boykin
 * Olushola Akinmolayan
 * Paolo G. Giarrusso
+* Paresh Adhia
 * Pere Villega
 * Peter Hilton
 * Peter László
