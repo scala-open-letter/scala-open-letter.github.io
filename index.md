@@ -118,6 +118,7 @@ Signed:
 * Raphaél Parrée
 * Raúl Raja
 * Rebecca Mark
+* Richard Costine
 * Richard Dallaway
 * Rishabh Agarwal
 * Rob Norris
