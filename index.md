@@ -115,6 +115,7 @@ Signed:
 * Peter Hilton
 * Peter László
 * Rafał Krzewski
+* Raphaél Parrée
 * Raúl Raja
 * Rebecca Mark
 * Richard Dallaway
