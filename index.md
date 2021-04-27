@@ -91,6 +91,7 @@ Signed:
 * Joe Lewis
 * Joshua Conner
 * Justin Pihony
+* Kailuo Wang
 * Kelley Robinson
 * Kelsey Gilmore-Innis
 * kf Fellows
