@@ -50,6 +50,7 @@ Signed (27 April 2021):
 * Stew O’Connor
 * Travis Brown
 * Zainab Ali
+* Andy Scott
 
 ### Additional information
 
