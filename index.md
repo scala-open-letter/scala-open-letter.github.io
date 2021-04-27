@@ -40,6 +40,7 @@ Signed (27 April 2021):
 * Daniel Spiewak
 * Davis Zanot
 * Dean Wampler
+* Dragisa Krsmanovic
 * Dylan Martin
 * Erik Osheim
 * Eugene Yokota
