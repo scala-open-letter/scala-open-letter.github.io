@@ -38,6 +38,7 @@ Signed (27 April 2021):
 * Andy Scott
 * Antonio Gelameris
 * Artie Pesh-Imam
+* Attila Szegedi
 * Bart Schuller
 * Bodil Stokke
 * Brian Clapper
