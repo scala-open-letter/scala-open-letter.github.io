@@ -33,6 +33,7 @@ Signed (27 April 2021):
 * Alex Cameron
 * Alex Levenson
 * Alex Merritt
+* Alexandru Nedelcu
 * April Hyacinth
 * Andrew Gustafson
 * Andy Scott
