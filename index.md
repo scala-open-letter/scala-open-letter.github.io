@@ -46,6 +46,7 @@ Signed (27 April 2021):
 * Britany Meadows
 * Channing Walton
 * Chris Kipp
+* Christophe Junke
 * Christopher Davenport
 * Clement Delafargue
 * Daniel Hinojosa
