@@ -49,6 +49,7 @@ Signed (27 April 2021):
 * Dean Wampler
 * Dragisa Krsmanovic
 * Dylan Martin
+* Eddie Kay
 * Erik Osheim
 * Eugene Yokota
 * Flavio Brasil
