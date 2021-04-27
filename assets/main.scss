@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-header {
+  border-top-width: 0px;
+}
+
+h3 {
+  border-top: 1px solid #e8e8e8;
+  padding-top: 1em;
+}
