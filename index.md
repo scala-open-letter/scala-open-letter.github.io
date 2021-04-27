@@ -92,6 +92,7 @@ Signed (27 April 2021):
 * Michael Pilquist
 * Milan van der Meer
 * Miles Sabin
+* Moses Nakamura
 * Neville Li
 * Noel Georgi
 * Noel Welsh
