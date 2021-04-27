@@ -126,6 +126,7 @@ Signed (27 April 2021):
 * Tony Aldridge
 * Travis Brown
 * Vasil Vasilev
+* Will Sargent
 * Yann Simon
 * Yao Li
 * Yilin Wei
