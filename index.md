@@ -61,6 +61,7 @@ Signed:
 * Daniela Sfregola
 * Danny McClanahan
 * Dario Abdulrehman
+* Dave Pereira-Gurnell
 * David Gregory
 * Davis Zanot
 * Dean Wampler
@@ -81,6 +82,7 @@ Signed:
 * Heather Miller
 * Holden Karau
 * Idrees Khan
+* Imran Javaid
 * James Fielder
 * Jamie Allen
 * Jasna Rodulfa-Blemberg
@@ -92,8 +94,10 @@ Signed:
 * Joe Lewis
 * Joshua Conner
 * Justin Pihony
+* Kailuo Wang
 * Kelley Robinson
 * Kelsey Gilmore-Innis
+* Ken Scambler
 * kf Fellows
 * Lars Hupel
 * Lexi Galantino
