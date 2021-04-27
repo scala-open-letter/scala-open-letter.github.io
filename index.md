@@ -29,6 +29,7 @@ Our purpose in releasing this open letter is to bring attention to the issue and
 
 Signed:
 
+* Abhishek Srivastava
 * Adelbert Chang
 * Adrienne L. Travis
 * Albert Pastrana
@@ -36,6 +37,7 @@ Signed:
 * Alex Cameron
 * Alex Levenson
 * Alex Merritt
+* Alexandre Bertails
 * Alexandru Nedelcu
 * Andreas Drobisch
 * Andrew Gustafson
@@ -70,8 +72,10 @@ Signed:
 * Ethan Suntag
 * Eugene Yokota
 * Fabio Labella
+* Filippo Costa
 * Flavio Brasil
 * Frank Thomas
+* Greg Pfeil
 * Guillaume Bogard
 * Heather Miller
 * Holden Karau
@@ -114,9 +118,12 @@ Signed:
 * Peter Hilton
 * Peter László
 * Rafał Krzewski
+* Rahul Goma Phulore
+* Raphaél Parrée
 * Raúl Raja
 * Rebecca Mark
 * Renato Cavalcanti
+* Richard Costine
 * Richard Dallaway
 * Rishabh Agarwal
 * Rob Norris
