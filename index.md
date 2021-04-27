@@ -116,6 +116,7 @@ Signed:
 * Rafał Krzewski
 * Rebecca Mark
 * Richard Dallaway
+* Rishabh Agarwal
 * Rob Norris
 * Ross A. Baker
 * Ryan Peters
