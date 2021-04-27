@@ -93,6 +93,7 @@ Signed (27 April 2021):
 * Oscar Boykin
 * Olushola Akinmolayan
 * Pere Villega
+* Peter Hilton
 * Peter László
 * Rebecca Mark
 * Rob Norris
