@@ -45,6 +45,7 @@ Signed (27 April 2021):
 * Noel Welsh
 * Rob Norris
 * Ross A. Baker
+* Ryan Tanner
 * Ryan Williams
 * Seth Tisue
 * Stew O’Connor
