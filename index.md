@@ -33,6 +33,7 @@ Signed (27 April 2021):
 * Bodil Stokke
 * Brian Clapper
 * Daniel Spiewak
+* Davis Zanot
 * Dean Wampler
 * Erik Osheim
 * Eugene Yokota
