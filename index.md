@@ -61,6 +61,8 @@ Signed (27 April 2021):
 * Travis Brown
 * Zach McCoy
 * Zainab Ali
+* Pere Villega
+
 
 ### Additional information
 
