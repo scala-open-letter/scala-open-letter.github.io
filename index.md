@@ -58,6 +58,7 @@ Signed (27 April 2021):
 * Lars Hupel
 * Loránd Szakács
 * Luka Jacobowitz
+* Mark "Justin du Coeur" Waks
 * Mathis Randl
 * Michael Pilquist
 * Miles Sabin
