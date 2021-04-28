@@ -187,6 +187,7 @@ Signed:
 * Mark "Justin du Coeur" Waks
 * Mario Pastorelli
 * Martijn Hoekstra
+* Martin Carolan
 * Martin Kühl
 * Martin Pallmann
 * Mathis Randl
