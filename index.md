@@ -224,6 +224,7 @@ Signed:
 * Ryan Tanner
 * Ryan Tomczik
 * Ryan Williams
+* Sam Desborough
 * Sam Pillsworth
 * Sandeep Virdi
 * Sathyaprakash Dhanabal
