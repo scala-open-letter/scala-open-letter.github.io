@@ -159,6 +159,7 @@ Signed:
 * Milan van der Meer
 * Miles Sabin
 * Moses Nakamura
+* Nathan Kleyn
 * Neville Li
 * Noel Georgi
 * Noel Welsh
