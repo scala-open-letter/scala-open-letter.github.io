@@ -29,6 +29,7 @@ Our purpose in releasing this open letter is to bring attention to the issue and
 
 Signed:
 
+* Aaditya Menon
 * Abhishek Srivastava
 * Adam Rosien
 * Adelbert Chang
