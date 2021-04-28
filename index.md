@@ -185,6 +185,7 @@ Signed:
 * Peter László
 * Phil Curzon
 * Pierre Dal-Pra
+* Piyush Purang
 * Priya Viseskul
 * Rafał Krzewski
 * Rahul Goma Phulore
