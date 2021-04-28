@@ -124,6 +124,7 @@ Signed:
 * Marc Ramírez
 * Mark Tomko
 * Mark "Justin du Coeur" Waks
+* Mario Pastorelli
 * Martijn Hoekstra
 * Martin Kühl
 * Mathis Randl
