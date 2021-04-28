@@ -103,6 +103,7 @@ Signed:
 * Ken Scambler
 * Kevin Walter
 * kf Fellows
+* Lars Albertsson
 * Lars Hupel
 * Lexi Galantino
 * Long Cao
