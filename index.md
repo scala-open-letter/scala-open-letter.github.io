@@ -63,6 +63,7 @@ Signed:
 * Attila Szegedi
 * Barrie McGuire
 * Bart Schuller
+* Bartosz Bierkowski
 * Ben Fradet
 * Ben Plommer
 * Benjamin Thuillier
