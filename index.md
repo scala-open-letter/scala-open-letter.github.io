@@ -41,6 +41,7 @@ Signed:
 * Alex Merritt
 * Alexandre Bergeron
 * Alexandre Bertails
+* Alexandre Berthaud
 * Alexandru Nedelcu
 * Andreas Drobisch
 * Andrew Gustafson
