@@ -279,6 +279,7 @@ Signed:
 * Waris Radji
 * Will Sargent
 * Wille Faler
+* William Autrey
 * Yann Simon
 * Yao Li
 * Yilin Wei
