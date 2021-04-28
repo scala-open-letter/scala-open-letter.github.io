@@ -53,6 +53,7 @@ Signed:
 * Brian Clapper
 * Britany Meadows
 * Channing Walton
+* Chiin-Rui Tan
 * Chris Kipp
 * Christophe Junke
 * Christopher Davenport
