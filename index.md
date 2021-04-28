@@ -233,6 +233,7 @@ Signed:
 * Sam Pillsworth
 * Sandeep Virdi
 * Sathyaprakash Dhanabal
+* Sean Glover
 * SeongHyun Lee (Kevin Lee / 케빈 리)
 * Sérgio Teixeira
 * Seth Tisue
