@@ -81,6 +81,7 @@ Signed:
 * Filippo Costa
 * Flavio Brasil
 * Frank Thomas
+* Germán Ferrari
 * Greg Pfeil
 * Guillaume Bogard
 * Heather Miller
