@@ -155,6 +155,7 @@ Signed:
 * Sérgio Teixeira
 * Seth Tisue
 * Shadaj Laddad
+* Siu Leung Chan
 * Somdev Sangwan
 * Stephen Lazaro
 * Stew O’Connor
