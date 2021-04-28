@@ -139,6 +139,7 @@ Signed:
 * Jim Miller
 * Joe Lewis
 * Jose Raya
+* Josef Vlach
 * Joshua Conner
 * Julian Peeters
 * Justin Pihony
