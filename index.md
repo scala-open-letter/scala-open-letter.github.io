@@ -63,6 +63,7 @@ Signed:
 * Craig Treptow
 * Daniel Hinojosa
 * Daniel Spiewak
+* Daniel Westheide
 * Daniela Sfregola
 * Danny McClanahan
 * Dario Abdulrehman
