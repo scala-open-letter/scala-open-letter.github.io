@@ -151,6 +151,7 @@ Signed:
 * Mark Hammons
 * Mark Tomko
 * Mark "Justin du Coeur" Waks
+* Mario Pastorelli
 * Martijn Hoekstra
 * Martin Kühl
 * Martin Pallmann
