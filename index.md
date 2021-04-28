@@ -91,6 +91,7 @@ Signed:
 * Herdy Handoko
 * Holden Karau
 * Idrees Khan
+* Ignasi Marimon-Clos
 * Imran Javaid
 * Jakub Kozłowski
 * James Fielder
