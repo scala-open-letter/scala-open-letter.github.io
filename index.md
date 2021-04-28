@@ -52,6 +52,7 @@ Signed:
 * Amanda Liu
 * Andrea Magnorsky
 * Andrea Peruffo
+* Andrew Gee
 * Andrew Gustafson
 * Andrew Marki
 * Andrew Valencik
