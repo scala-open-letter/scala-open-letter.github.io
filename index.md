@@ -44,6 +44,7 @@ Signed:
 * Alexandre Bergeron
 * Alexandre Bertails
 * Alexandre Berthaud
+* Alexandros Bourantas
 * Alexandru Nedelcu
 * Andrea Peruffo
 * Andreas Drobisch
