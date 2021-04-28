@@ -108,6 +108,7 @@ Signed:
 * Jian Lan
 * Jim Miller
 * Joe Lewis
+* Jose Raya
 * Joshua Conner
 * Julian Peeters
 * Justin Pihony
