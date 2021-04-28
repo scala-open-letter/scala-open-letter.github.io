@@ -71,6 +71,7 @@ Signed:
 * Davis Zanot
 * Dean Wampler
 * Derek Mortimer
+* Douglas Clinton
 * Dragisa Krsmanovic
 * Drew Gassaway
 * Dylan Martin
