@@ -143,6 +143,7 @@ Signed:
 * Krystal Maughan
 * Lars Albertsson
 * Lars Hupel
+* Lee Smith
 * Lexi Galantino
 * Long Cao
 * Loránd Szakács
