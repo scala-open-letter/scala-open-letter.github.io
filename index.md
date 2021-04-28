@@ -160,6 +160,7 @@ Signed:
 * Ryan Tomczik
 * Ryan Williams
 * Sam Pillsworth
+* Sandeep Virdi
 * Sathyaprakash Dhanabal
 * SeongHyun Lee (Kevin Lee / 케빈 리)
 * Sérgio Teixeira
