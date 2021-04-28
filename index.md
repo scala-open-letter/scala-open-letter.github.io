@@ -236,6 +236,7 @@ Signed:
 * Steve Buzzard
 * Stew O’Connor
 * Thomas Lockney
+* Thomas Switzer
 * Tobias Roeser
 * Todd Burnside
 * Tony Aldridge
