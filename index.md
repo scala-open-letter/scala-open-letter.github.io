@@ -206,6 +206,7 @@ Signed:
 * Sérgio Teixeira
 * Seth Tisue
 * Shadaj Laddad
+* Simone Ripamonti
 * Siu Leung Chan
 * Somdev Sangwan
 * Stephen Lazaro
