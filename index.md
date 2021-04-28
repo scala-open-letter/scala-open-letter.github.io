@@ -82,6 +82,7 @@ Signed:
 * Fabio Labella
 * Filippo Costa
 * Flavio Brasil
+* Francesco Pellegrini
 * Frank Thomas
 * Germán Ferrari
 * Glenn Liwanag
