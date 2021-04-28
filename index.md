@@ -232,6 +232,7 @@ Signed:
 * Sam Desborough
 * Sam Pillsworth
 * Sandeep Virdi
+* Saskia Gennrich
 * Sathyaprakash Dhanabal
 * Sean Glover
 * SeongHyun Lee (Kevin Lee / 케빈 리)
