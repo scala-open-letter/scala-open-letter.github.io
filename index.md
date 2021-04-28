@@ -87,6 +87,7 @@ Signed:
 * Glenn Liwanag
 * Greg Pfeil
 * Guillaume Bogard
+* Hanns Holger Rutz
 * Heather Miller
 * Herdy Handoko
 * Holden Karau
