@@ -115,6 +115,7 @@ Signed:
 * Martijn Hoekstra
 * Martin Kühl
 * Mathis Randl
+* Matt Hughes
 * Michael Pilquist
 * Milan van der Meer
 * Miles Sabin
