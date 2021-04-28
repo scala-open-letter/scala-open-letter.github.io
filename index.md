@@ -45,6 +45,7 @@ Signed:
 * Andrew Gustafson
 * Andrew Valencik
 * Andy Scott
+* Antoine Comte
 * Antonio Gelameris
 * April Hyacinth
 * Artie Pesh-Imam
