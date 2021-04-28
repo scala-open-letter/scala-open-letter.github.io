@@ -237,6 +237,7 @@ Signed:
 * Régis Kuckaertz
 * Renato Cavalcanti
 * Rhys Sharrem
+* Richard Ashworth
 * Richard Costine
 * Richard Dallaway
 * Rishabh Agarwal
