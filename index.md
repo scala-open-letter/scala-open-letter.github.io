@@ -70,6 +70,7 @@ Signed:
 * Daniel Hinojosa
 * Daniel Peebles
 * Daniel Spiewak
+* Daniel Westheide
 * Daniela Sfregola
 * Danny McClanahan
 * Dario Abdulrehman
