@@ -105,6 +105,7 @@ Signed:
 * kf Fellows
 * Lars Hupel
 * Lexi Galantino
+* Long Cao
 * Loránd Szakács
 * Luis Miguel Mejía Suárez
 * Luka Jacobowitz
