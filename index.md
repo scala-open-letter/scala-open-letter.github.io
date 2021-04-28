@@ -105,6 +105,7 @@ Signed:
 * Holden Karau
 * Hungai Amuhinda
 * Idrees Khan
+* Ignasi Marimon-Clos
 * Imran Javaid
 * Jakub Kozłowski
 * James Fielder
