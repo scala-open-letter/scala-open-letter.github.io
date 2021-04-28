@@ -41,6 +41,7 @@ Signed:
 * Alex Merritt
 * Alexandre Bertails
 * Alexandru Nedelcu
+* Ali S. Rashid
 * Andreas Drobisch
 * Andrew Gustafson
 * Andrew Valencik
