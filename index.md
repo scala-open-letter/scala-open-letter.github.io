@@ -215,6 +215,7 @@ Signed:
 * Peter Hilton
 * Peter László
 * Phil Curzon
+* Pierangelo Cecchetto
 * Pierre Dal-Pra
 * Piyush Purang
 * Priya Viseskul
