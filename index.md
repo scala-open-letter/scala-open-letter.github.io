@@ -34,6 +34,7 @@ Signed:
 * Adam Rosien
 * Adelbert Chang
 * Adrienne L. Travis
+* Ahmad Hassan
 * Alan Johnson
 * Albert Pastrana
 * Aldo Stracquadanio
@@ -292,7 +293,6 @@ Signed:
 * Yumin Wong
 * Zach McCoy
 * Zainab Ali
-* Ahmad Hassan
 
 
 ### Additional information
