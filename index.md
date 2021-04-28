@@ -45,6 +45,7 @@ Signed:
 * Alexandre Bertails
 * Alexandre Berthaud
 * Alexandru Nedelcu
+* Andrea Peruffo
 * Andreas Drobisch
 * Andrew Gustafson
 * Andrew Valencik
