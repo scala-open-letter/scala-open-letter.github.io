@@ -149,6 +149,7 @@ Signed:
 * Rahul Goma Phulore
 * Raphaél Parrée
 * Raúl Raja
+* Rebecca Ely
 * Rebecca Mark
 * Renato Cavalcanti
 * Rhys Sharrem
