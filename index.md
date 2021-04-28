@@ -88,6 +88,7 @@ Signed:
 * Dylan Martin
 * Eda Meadows
 * Eddie Kay
+* Elias Court
 * Erik Osheim
 * Ethan Suntag
 * Eugene Yokota
