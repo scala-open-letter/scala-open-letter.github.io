@@ -214,6 +214,7 @@ Signed:
 * Tony Aldridge
 * Travis Brown
 * Vasil Vasilev
+* Vasilis Nicolaou
 * Vladimir Kostyukov
 * Waris Radji
 * Will Sargent
