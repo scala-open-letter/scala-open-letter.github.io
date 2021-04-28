@@ -139,6 +139,7 @@ Signed:
 * Luka Jacobowitz
 * Lydia Skuse
 * Marc Ramírez
+* Mark Hammons
 * Mark Tomko
 * Mark "Justin du Coeur" Waks
 * Martijn Hoekstra
