@@ -107,6 +107,7 @@ Signed:
 * Erik Osheim
 * Ethan Suntag
 * Eugene Yokota
+* Evgenii Kuznetcov
 * Fabio Labella
 * Filipe Regadas
 * Filippo Costa
