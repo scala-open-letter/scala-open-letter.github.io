@@ -37,6 +37,7 @@ Signed:
 * Alan Johnson
 * Albert Pastrana
 * Aleksander Sumowski
+* Alessandro Marrella
 * Alessandro Zanin
 * Alex Berry
 * Alex Cameron
