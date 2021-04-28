@@ -68,6 +68,7 @@ Signed:
 * Ben Plommer
 * Benjamin Thuillier
 * Bodil Stokke
+* Bogdan Roman
 * Brian Clapper
 * Brian Hoff
 * Brian Holt
