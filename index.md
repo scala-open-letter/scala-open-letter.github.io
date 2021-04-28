@@ -83,6 +83,7 @@ Signed:
 * Greg Pfeil
 * Guillaume Bogard
 * Heather Miller
+* Herdy Handoko
 * Holden Karau
 * Idrees Khan
 * Imran Javaid
