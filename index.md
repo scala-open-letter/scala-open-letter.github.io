@@ -36,6 +36,7 @@ Signed:
 * Adrienne L. Travis
 * Alan Johnson
 * Albert Pastrana
+* Aldo Stracquadanio
 * Aleksander Sumowski
 * Alessandro Marrella
 * Alessandro Zanin
