@@ -68,6 +68,7 @@ Signed:
 * Dario Abdulrehman
 * Dave Pereira-Gurnell
 * David Gregory
+* David Smith
 * Davis Zanot
 * Dean Wampler
 * Derek Mortimer
