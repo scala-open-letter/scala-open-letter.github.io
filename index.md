@@ -149,6 +149,7 @@ Signed:
 * Raphaél Parrée
 * Raúl Raja
 * Rebecca Mark
+* Régis Kuckaertz
 * Renato Cavalcanti
 * Rhys Sharrem
 * Richard Costine
