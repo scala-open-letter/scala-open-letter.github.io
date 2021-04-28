@@ -52,6 +52,7 @@ Signed:
 * Bart Schuller
 * Bodil Stokke
 * Brian Clapper
+* Brian Hoff
 * Britany Meadows
 * Channing Walton
 * Chiin-Rui Tan
