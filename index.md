@@ -151,6 +151,7 @@ Signed:
 * Joshua Conner
 * Julian Peeters
 * Justin Pihony
+* Katherine Michel
 * Kailuo Wang
 * Katrin Grunert
 * Kelley Robinson
