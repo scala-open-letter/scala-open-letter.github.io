@@ -292,6 +292,7 @@ Signed:
 * Yumin Wong
 * Zach McCoy
 * Zainab Ali
+* Ahmad Hassan
 
 
 ### Additional information
