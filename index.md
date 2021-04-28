@@ -111,6 +111,7 @@ Signed:
 * Fabio Labella
 * Filipe Regadas
 * Filippo Costa
+* Filippo De Luca
 * Flavio Brasil
 * Francesco Pellegrini
 * Frank Thomas
