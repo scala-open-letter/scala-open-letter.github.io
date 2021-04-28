@@ -78,6 +78,7 @@ Signed:
 * Danny McClanahan
 * Dario Abdulrehman
 * Dave Pereira-Gurnell
+* David Francoeur
 * David Gregory
 * David Smith
 * Davis Zanot
