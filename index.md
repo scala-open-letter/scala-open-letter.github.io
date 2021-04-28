@@ -126,6 +126,7 @@ Signed:
 * Mark "Justin du Coeur" Waks
 * Martijn Hoekstra
 * Martin Kühl
+* Martin Pallmann
 * Mathis Randl
 * Matt Hughes
 * Michael Pilquist
