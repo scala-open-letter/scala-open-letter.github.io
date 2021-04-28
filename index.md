@@ -55,6 +55,7 @@ Signed:
 * April Hyacinth
 * Artie Pesh-Imam
 * Attila Szegedi
+* Barrie McGuire
 * Bart Schuller
 * Benjamin Thuillier
 * Bodil Stokke
