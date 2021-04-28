@@ -94,6 +94,7 @@ Signed:
 * Jean Yang
 * Jeremy Rose
 * Jeremy Smith
+* Jérémie Astori
 * Jesse Atkinson
 * Jian Lan
 * Jim Miller
