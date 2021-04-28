@@ -219,6 +219,7 @@ Signed:
 * Richard Costine
 * Richard Dallaway
 * Rishabh Agarwal
+* Rishad Sewnarain
 * Rob Norris
 * Rodolfo Hansen
 * Rose Toomey
