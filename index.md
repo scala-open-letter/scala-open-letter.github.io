@@ -92,6 +92,7 @@ Signed:
 * Holden Karau
 * Idrees Khan
 * Imran Javaid
+* Jack Wheatley
 * Jakub Kozłowski
 * James Fielder
 * Jamie Allen
