@@ -166,6 +166,7 @@ Signed:
 * Siu Leung Chan
 * Somdev Sangwan
 * Stephen Lazaro
+* Steve Buzzard
 * Stew O’Connor
 * Thomas Lockney
 * Tobias Roeser
