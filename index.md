@@ -51,7 +51,6 @@ Signed:
 * Ali S. Rashid
 * Amanda Liu
 * Andrea Magnorsky
-* Andreas Drobisch
 * Andrea Peruffo
 * Andrew Gustafson
 * Andrew Valencik
