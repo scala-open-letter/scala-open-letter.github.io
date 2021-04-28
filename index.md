@@ -157,6 +157,7 @@ Signed:
 * Kevin Walter
 * kf Fellows
 * Konrad Malawski
+* Kris Nuttycombe
 * Krystal Maughan
 * Lars Albertsson
 * Lars Hupel
