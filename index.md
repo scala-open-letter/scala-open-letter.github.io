@@ -136,6 +136,7 @@ Signed:
 * Loránd Szakács
 * Luis Miguel Mejía Suárez
 * Luka Jacobowitz
+* Lydia Skuse
 * Marc Ramírez
 * Mark Tomko
 * Mark "Justin du Coeur" Waks
