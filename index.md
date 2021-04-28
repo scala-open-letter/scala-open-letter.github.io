@@ -101,6 +101,7 @@ Signed:
 * Eda Meadows
 * Eddie Kay
 * Elias Court
+* Eric Loots
 * Erik Osheim
 * Ethan Suntag
 * Eugene Yokota
