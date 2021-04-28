@@ -80,6 +80,7 @@ Signed:
 * David Gregory
 * Davis Zanot
 * Dean Wampler
+* Denis Pyshev
 * Derek Mortimer
 * Dragisa Krsmanovic
 * Drew Gassaway
