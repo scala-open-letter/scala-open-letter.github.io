@@ -160,6 +160,7 @@ Signed:
 * Ryan Williams
 * Sam Pillsworth
 * Sathyaprakash Dhanabal
+* SeongHyun Lee (Kevin Lee / 케빈 리)
 * Sérgio Teixeira
 * Seth Tisue
 * Shadaj Laddad
