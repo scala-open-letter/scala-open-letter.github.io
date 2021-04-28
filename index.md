@@ -51,6 +51,7 @@ Signed:
 * Andrew Valencik
 * Andy Scott
 * Antoine Comte
+* Antonio Alonso Dominguez
 * Antonio Gelameris
 * April Hyacinth
 * Artie Pesh-Imam
