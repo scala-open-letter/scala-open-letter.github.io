@@ -151,6 +151,7 @@ Signed:
 * Ryan Tanner
 * Ryan Tomczik
 * Ryan Williams
+* Sam Pillsworth
 * Sathyaprakash Dhanabal
 * Sérgio Teixeira
 * Seth Tisue
