@@ -62,6 +62,7 @@ Signed:
 * Clement Delafargue
 * Craig Treptow
 * Daniel Hinojosa
+* Daniel Peebles
 * Daniel Spiewak
 * Daniela Sfregola
 * Danny McClanahan
