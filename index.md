@@ -50,6 +50,7 @@ Signed:
 * Artie Pesh-Imam
 * Attila Szegedi
 * Bart Schuller
+* Ben Fradet
 * Bodil Stokke
 * Brian Clapper
 * Britany Meadows
