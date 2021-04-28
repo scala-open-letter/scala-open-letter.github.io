@@ -46,6 +46,8 @@ Signed:
 * Alexandre Berthaud
 * Alexandros Bourantas
 * Alexandru Nedelcu
+* Amanda Liu
+* Andreas Drobisch
 * Andrea Peruffo
 * Andrew Gustafson
 * Andrew Valencik
