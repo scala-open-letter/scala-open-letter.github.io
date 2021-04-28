@@ -80,6 +80,7 @@ Signed:
 * Ethan Suntag
 * Eugene Yokota
 * Fabio Labella
+* Filipe Regadas
 * Filippo Costa
 * Flavio Brasil
 * Frank Thomas
