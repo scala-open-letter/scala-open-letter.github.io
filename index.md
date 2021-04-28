@@ -219,6 +219,7 @@ Signed:
 * Pierre Dal-Pra
 * Piyush Purang
 * Priya Viseskul
+* Rafael Fiume
 * Rafał Krzewski
 * Rahul Goma Phulore
 * raichoo
