@@ -139,6 +139,7 @@ Signed:
 * Olushola Akinmolayan
 * Paolo G. Giarrusso
 * Paresh Adhia
+* Paul Chiusano
 * Pere Villega
 * Peter Hilton
 * Peter László
