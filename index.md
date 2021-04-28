@@ -71,6 +71,7 @@ Signed:
 * Brian Hoff
 * Brian Pritchett
 * Britany Meadows
+* Byron Samaripa
 * Channing Walton
 * Charles Adetiloye
 * Chiin-Rui Tan
