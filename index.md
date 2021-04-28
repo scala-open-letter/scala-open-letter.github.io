@@ -47,7 +47,6 @@ Signed:
 * Alexandros Bourantas
 * Alexandru Nedelcu
 * Andrea Peruffo
-* Andreas Drobisch
 * Andrew Gustafson
 * Andrew Valencik
 * Andy Scott
