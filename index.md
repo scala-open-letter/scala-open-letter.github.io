@@ -34,6 +34,7 @@ Signed:
 * Adam Rosien
 * Adelbert Chang
 * Adrienne L. Travis
+* Alan Johnson
 * Albert Pastrana
 * Aleksander Sumowski
 * Alessandro Zanin
