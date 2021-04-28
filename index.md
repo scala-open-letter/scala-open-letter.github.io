@@ -112,6 +112,7 @@ Signed:
 * Idrees Khan
 * Ignasi Marimon-Clos
 * Imran Javaid
+* Jack Wheatley
 * Jakub Kozłowski
 * James Fielder
 * Jamie Allen
