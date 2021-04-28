@@ -39,6 +39,7 @@ Signed:
 * Alex Cameron
 * Alex Levenson
 * Alex Merritt
+* Alexandre Bergeron
 * Alexandre Bertails
 * Alexandru Nedelcu
 * Andreas Drobisch
