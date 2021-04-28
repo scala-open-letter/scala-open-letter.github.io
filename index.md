@@ -84,6 +84,7 @@ Signed:
 * Daniel Karch
 * Daniel Peebles
 * Daniel Spiewak
+* Daniel Tattan-Birch
 * Daniel Westheide
 * Daniela Sfregola
 * Danny McClanahan
