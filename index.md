@@ -173,6 +173,7 @@ Signed:
 * Stephen Lazaro
 * Steve Buzzard
 * Stew O’Connor
+* Stewart Stewart
 * Thomas Lockney
 * Tobias Roeser
 * Todd Burnside
