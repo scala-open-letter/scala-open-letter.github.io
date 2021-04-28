@@ -119,6 +119,7 @@ Signed:
 * Gavin Bisesi
 * Germán Ferrari
 * Glenn Liwanag
+* Gorazd Kozmus
 * Greg Pfeil
 * Guillaume Bogard
 * Hanns Holger Rutz
