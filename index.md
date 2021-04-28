@@ -114,6 +114,7 @@ Signed:
 * Flavio Brasil
 * Francesco Pellegrini
 * Frank Thomas
+* Gabor Pihaj
 * Gabriel Volpe
 * Gary Coady
 * Gavin Bisesi
