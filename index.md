@@ -42,6 +42,7 @@ Signed:
 * Alex Berry
 * Alex Cameron
 * Alex Levenson
+* Alex McGuire
 * Alex Merritt
 * Alexandre Bergeron
 * Alexandre Bertails
