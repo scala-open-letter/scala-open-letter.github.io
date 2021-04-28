@@ -71,6 +71,7 @@ Signed:
 * Clement Delafargue
 * Craig Treptow
 * Daniel Hinojosa
+* Daniel Karch
 * Daniel Peebles
 * Daniel Spiewak
 * Daniel Westheide
