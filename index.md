@@ -72,7 +72,6 @@ Signed:
 * Benjamin Thuillier
 * Bodil Stokke
 * Bogdan Roman
-* Borja Lorente
 * Brian Clapper
 * Brian Hoff
 * Brian Holt
