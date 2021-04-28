@@ -158,6 +158,7 @@ Signed:
 * Paolo G. Giarrusso
 * Paresh Adhia
 * Paul Chiusano
+* Paul Horn
 * Pere Villega
 * Peter Hilton
 * Peter László
