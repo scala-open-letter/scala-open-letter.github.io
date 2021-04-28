@@ -198,6 +198,7 @@ Signed:
 * Richard Dallaway
 * Rishabh Agarwal
 * Rob Norris
+* Rodolfo Hansen
 * Rose Toomey
 * Ross A. Baker
 * Rutger Claes
