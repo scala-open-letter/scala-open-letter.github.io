@@ -35,6 +35,7 @@ Signed:
 * Adrienne L. Travis
 * Albert Pastrana
 * Aleksander Sumowski
+* Alessandro Zanin
 * Alex Berry
 * Alex Cameron
 * Alex Levenson
