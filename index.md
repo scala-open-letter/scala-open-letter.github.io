@@ -88,6 +88,7 @@ Signed:
 * Filippo Costa
 * Flavio Brasil
 * Frank Thomas
+* Gary Coady
 * Germán Ferrari
 * Glenn Liwanag
 * Greg Pfeil
