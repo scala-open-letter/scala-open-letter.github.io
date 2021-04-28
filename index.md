@@ -48,7 +48,6 @@ Signed:
 * Alexandru Nedelcu
 * Ali S. Rashid
 * Amanda Liu
-* Andreas Drobisch
 * Andrea Peruffo
 * Andrew Gustafson
 * Andrew Valencik
