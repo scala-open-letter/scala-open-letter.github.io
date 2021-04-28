@@ -70,6 +70,7 @@ Signed:
 * Bodil Stokke
 * Brian Clapper
 * Brian Hoff
+* Brian Holt
 * Brian Pritchett
 * Britany Meadows
 * Byron Samaripa
