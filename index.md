@@ -90,6 +90,7 @@ Signed:
 * Heather Miller
 * Herdy Handoko
 * Holden Karau
+* Hungai Amuhinda
 * Idrees Khan
 * Imran Javaid
 * Jakub Kozłowski
