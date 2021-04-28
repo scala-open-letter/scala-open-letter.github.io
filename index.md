@@ -34,8 +34,10 @@ Signed:
 * Adam Rosien
 * Adelbert Chang
 * Adrienne L. Travis
+* Alan Johnson
 * Albert Pastrana
 * Aleksander Sumowski
+* Alessandro Marrella
 * Alessandro Zanin
 * Alex Berry
 * Alex Cameron
@@ -48,6 +50,7 @@ Signed:
 * Alexandru Nedelcu
 * Ali S. Rashid
 * Amanda Liu
+* Andrea Magnorsky
 * Andrea Peruffo
 * Andrew Gustafson
 * Andrew Valencik
@@ -60,14 +63,18 @@ Signed:
 * Attila Szegedi
 * Barrie McGuire
 * Bart Schuller
+* Bartosz Bierkowski
 * Ben Fradet
 * Ben Plommer
 * Benjamin Thuillier
 * Bodil Stokke
+* Bogdan Roman
 * Brian Clapper
 * Brian Hoff
+* Brian Holt
 * Brian Pritchett
 * Britany Meadows
+* Byron Samaripa
 * Channing Walton
 * Charles Adetiloye
 * Chiin-Rui Tan
@@ -81,6 +88,7 @@ Signed:
 * Daniel Karch
 * Daniel Peebles
 * Daniel Spiewak
+* Daniel Tattan-Birch
 * Daniel Westheide
 * Daniela Sfregola
 * Danny McClanahan
@@ -100,15 +108,19 @@ Signed:
 * Eda Meadows
 * Eddie Kay
 * Elias Court
+* Eric Loots
 * Erik Osheim
 * Ethan Suntag
 * Eugene Yokota
+* Evgenii Kuznetcov
 * Fabio Labella
+* Felix Mulder
 * Filipe Regadas
 * Filippo Costa
 * Flavio Brasil
 * Francesco Pellegrini
 * Frank Thomas
+* Gabor Pihaj
 * Gabriel Volpe
 * Gary Coady
 * Gavin Bisesi
@@ -140,12 +152,14 @@ Signed:
 * Jian Lan
 * Jim Miller
 * Joe Lewis
+* Johan Mudsam
 * Johannes Rudolph
 * Jose Raya
 * Josef Vlach
 * Joshua Conner
 * Julian Peeters
 * Justin Pihony
+* Katherine Michel
 * Kailuo Wang
 * Katrin Grunert
 * Kelley Robinson
@@ -154,6 +168,7 @@ Signed:
 * Kevin Walter
 * kf Fellows
 * Konrad Malawski
+* Kris Nuttycombe
 * Krystal Maughan
 * Lars Albertsson
 * Lars Hupel
@@ -179,6 +194,7 @@ Signed:
 * Michael Pilquist
 * Milan van der Meer
 * Miles Sabin
+* Morgen Peschke
 * Moses Nakamura
 * Nathan Kleyn
 * Neville Li
@@ -211,6 +227,7 @@ Signed:
 * Richard Costine
 * Richard Dallaway
 * Rishabh Agarwal
+* Rishad Sewnarain
 * Rob Norris
 * Rodolfo Hansen
 * Rose Toomey
@@ -221,9 +238,12 @@ Signed:
 * Ryan Tanner
 * Ryan Tomczik
 * Ryan Williams
+* Sam Desborough
 * Sam Pillsworth
 * Sandeep Virdi
+* Saskia Gennrich
 * Sathyaprakash Dhanabal
+* Sean Glover
 * SeongHyun Lee (Kevin Lee / 케빈 리)
 * Sérgio Teixeira
 * Seth Tisue
@@ -234,7 +254,10 @@ Signed:
 * Stephen Lazaro
 * Steve Buzzard
 * Stew O’Connor
+* Stewart Stewart
 * Thomas Lockney
+* Thomas Switzer
+* Tim Spence
 * Tobias Roeser
 * Todd Burnside
 * Tony Aldridge
