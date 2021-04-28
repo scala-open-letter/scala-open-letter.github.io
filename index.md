@@ -182,6 +182,7 @@ Signed:
 * Pere Villega
 * Peter Hilton
 * Peter László
+* Phil Curzon
 * Pierre Dal-Pra
 * Priya Viseskul
 * Rafał Krzewski
