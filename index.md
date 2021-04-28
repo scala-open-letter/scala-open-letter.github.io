@@ -170,6 +170,7 @@ Signed:
 * Raúl Raja
 * Rebecca Ely
 * Rebecca Mark
+* Régis Kuckaertz
 * Renato Cavalcanti
 * Rhys Sharrem
 * Richard Costine
