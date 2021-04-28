@@ -174,6 +174,7 @@ Signed:
 * Luka Jacobowitz
 * Lydia Skuse
 * Marc Ramírez
+* Marcos Pereira
 * Mark Janse van Rensburg
 * Mark Hammons
 * Mark Tomko
