@@ -122,6 +122,7 @@ Signed:
 * Luis Miguel Mejía Suárez
 * Luka Jacobowitz
 * Marc Ramírez
+* Mark Hammons
 * Mark Tomko
 * Mark "Justin du Coeur" Waks
 * Martijn Hoekstra
