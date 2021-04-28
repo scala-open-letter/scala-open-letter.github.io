@@ -83,6 +83,7 @@ Signed:
 * Dean Wampler
 * Denis Pyshev
 * Derek Mortimer
+* Douglas Clinton
 * Dragisa Krsmanovic
 * Drew Gassaway
 * Dylan Martin
