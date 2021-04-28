@@ -66,6 +66,7 @@ Signed:
 * Bodil Stokke
 * Brian Clapper
 * Brian Hoff
+* Brian Pritchett
 * Britany Meadows
 * Channing Walton
 * Charles Adetiloye
