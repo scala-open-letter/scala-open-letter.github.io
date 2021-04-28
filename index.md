@@ -167,6 +167,7 @@ Signed:
 * Peter Hilton
 * Peter László
 * Pierre Dal-Pra
+* Priya Viseskul
 * Rafał Krzewski
 * Rahul Goma Phulore
 * Raphaél Parrée
