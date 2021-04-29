@@ -159,6 +159,7 @@ Signed:
 * Jeremy Smith
 * Jérémie Astori
 * Jesse Atkinson
+* Jessica Siewert
 * Jian Lan
 * Jim Miller
 * Jiro Kugiya
