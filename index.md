@@ -224,6 +224,7 @@ Signed:
 * Misir Jafarov
 * Morgen Peschke
 * Moses Nakamura
+* Natalia Klyuchnikova
 * Nathan Kleyn
 * Nawaar Patel
 * Neville Li
