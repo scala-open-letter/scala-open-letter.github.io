@@ -168,6 +168,7 @@ Signed:
 * Jose Raya
 * Josef Vlach
 * Joshua Conner
+* Juan Pedro Moreno
 * Julian Peeters
 * Justin Pihony
 * Katherine Michel
