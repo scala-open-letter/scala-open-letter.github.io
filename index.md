@@ -60,6 +60,7 @@ Signed:
 * Andrew Marki
 * Andrew Valencik
 * Andy Scott
+* Angelos Michos
 * Antoine Comte
 * Antonio Alonso Dominguez
 * Antonio Gelameris
