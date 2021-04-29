@@ -38,6 +38,7 @@ Signed:
 * Alan Johnson
 * Albert Pastrana
 * Aldo Stracquadanio
+* Alec Zorab
 * Aleksander Sumowski
 * Alessandro Marrella
 * Alessandro Zanin
@@ -61,6 +62,7 @@ Signed:
 * Andrew Valencik
 * Andy Scott
 * Angelos Michos
+* Anna Bladzich
 * Antoine Comte
 * Antonio Alonso Dominguez
 * Antonio Gelameris
@@ -74,6 +76,7 @@ Signed:
 * Ben Plommer
 * Benjamin Thuillier
 * Bodil Stokke
+* Bogdan Mihai
 * Bogdan Roman
 * Borja Lorente
 * Brian Clapper
@@ -85,10 +88,12 @@ Signed:
 * Channing Walton
 * Charles Adetiloye
 * Chiin-Rui Tan
+* Choon Kee Oh
 * Chris Kipp
 * Christophe Junke
 * Christopher Davenport
 * Christopher League
+* Christopher Lewis
 * Clement Delafargue
 * Craig Treptow
 * Daniel Hinojosa
@@ -100,6 +105,7 @@ Signed:
 * Daniela Sfregola
 * Danny McClanahan
 * Dario Abdulrehman
+* Dario Rexin
 * Dave Pereira-Gurnell
 * David Francoeur
 * David Gregory
@@ -108,6 +114,7 @@ Signed:
 * Dean Wampler
 * Denis Pyshev
 * Derek Mortimer
+* Dougie Robertson
 * Douglas Clinton
 * Dragisa Krsmanovic
 * Drew Gassaway
@@ -153,6 +160,7 @@ Signed:
 * Jakub Kozłowski
 * James Fielder
 * Jamie Allen
+* Jarrod Urban
 * Jasna Rodulfa-Blemberg
 * Jason Martens
 * Jean Yang
@@ -160,16 +168,19 @@ Signed:
 * Jeremy Smith
 * Jérémie Astori
 * Jesse Atkinson
+* Jessica Siewert
 * Jian Lan
 * Jim Miller
 * Jiro Kugiya
 * Joe Lewis
 * Johan Mudsam
 * Johannes Rudolph
+* Jonathan Coveney
 * Jose Raya
 * Josef Vlach
 * Joshua Conner
 * Julian Peeters
+* Junhyung Im
 * Justin Pihony
 * Katherine Michel
 * Kailuo Wang
@@ -199,6 +210,7 @@ Signed:
 * Mark Hammons
 * Mark Tomko
 * Mark "Justin du Coeur" Waks
+* Markus Jura
 * Mario Pastorelli
 * Martijn Hoekstra
 * Martin Carolan
@@ -210,9 +222,12 @@ Signed:
 * Michael Pilquist
 * Milan van der Meer
 * Miles Sabin
+* Misir Jafarov
 * Morgen Peschke
 * Moses Nakamura
+* Natalia Klyuchnikova
 * Nathan Kleyn
+* Nawaar Patel
 * Neville Li
 * Noel Georgi
 * Noel Welsh
@@ -246,6 +261,7 @@ Signed:
 * Richard Ashworth
 * Richard Costine
 * Richard Dallaway
+* Rikito Taniguchi
 * Rishabh Agarwal
 * Rishad Sewnarain
 * Rob Norris
@@ -260,12 +276,14 @@ Signed:
 * Ryan Williams
 * Sam Desborough
 * Sam Pillsworth
+* Sambhav Saggi
 * Sandeep Virdi
 * Saskia Gennrich
 * Sathyaprakash Dhanabal
 * Sean Glover
 * SeongHyun Lee (Kevin Lee / 케빈 리)
 * Sérgio Teixeira
+* Sebastian Alfers
 * Seth Tisue
 * Shadaj Laddad
 * Simone Ripamonti
@@ -283,13 +301,16 @@ Signed:
 * Tomás Rossi
 * Tony Aldridge
 * Travis Brown
+* Uwe Sommerlatt
 * Vasil Vasilev
 * Vasilis Nicolaou
+* Veer Shah
 * Vladimir Kostyukov
 * Waris Radji
 * Will Sargent
 * Wille Faler
 * William Autrey
+* Woohyeong Kim
 * Yann Simon
 * Yao Li
 * Yilin Wei
