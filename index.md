@@ -210,6 +210,7 @@ Signed:
 * Michael Pilquist
 * Milan van der Meer
 * Miles Sabin
+* Misir Jafarov
 * Morgen Peschke
 * Moses Nakamura
 * Nathan Kleyn
