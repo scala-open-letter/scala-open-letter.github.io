@@ -253,6 +253,7 @@ Signed:
 * Richard Ashworth
 * Richard Costine
 * Richard Dallaway
+* Rikito Taniguchi
 * Rishabh Agarwal
 * Rishad Sewnarain
 * Rob Norris
