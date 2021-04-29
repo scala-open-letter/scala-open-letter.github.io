@@ -212,6 +212,7 @@ Signed:
 * Morgen Peschke
 * Moses Nakamura
 * Nathan Kleyn
+* Navin Surtani
 * Neville Li
 * Noel Georgi
 * Noel Welsh
