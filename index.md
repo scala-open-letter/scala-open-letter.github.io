@@ -100,6 +100,7 @@ Signed:
 * Daniela Sfregola
 * Danny McClanahan
 * Dario Abdulrehman
+* Dario Rexin
 * Dave Pereira-Gurnell
 * David Francoeur
 * David Gregory
