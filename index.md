@@ -213,6 +213,7 @@ Signed:
 * Moses Nakamura
 * Nathan Kleyn
 * Neville Li
+* Nicolas Rinaudo
 * Noel Georgi
 * Noel Welsh
 * Oscar Boykin
