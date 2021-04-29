@@ -27,13 +27,37 @@ Our purpose in releasing this open letter is to bring attention to the issue and
 
 (Originally posted 27 April 2021.)
 
-Signed:
+Signed (27 April 2021):
+
+* Adelbert Chang
+* Adrienne L. Travis
+* Bodil Stokke
+* Brian Clapper
+* Dean Wampler
+* Erik Osheim
+* Eugene Yokota
+* Heather Miller
+* Jamie Allen
+* Kelley Robinson
+* kf Fellows
+* Lars Hupel
+* Luka Jacobowitz
+* Michael Pilquist
+* Miles Sabin
+* Noel Welsh
+* Rob Norris
+* Ross A. Baker
+* Ryan Williams
+* Seth Tisue
+* Stew O’Connor
+* Travis Brown
+* Zainab Ali
+
+Additional support:
 
 * Aaditya Menon
 * Abhishek Srivastava
 * Adam Rosien
-* Adelbert Chang
-* Adrienne L. Travis
 * Ahmad Hassan
 * Alan Johnson
 * Albert Pastrana
@@ -75,11 +99,9 @@ Signed:
 * Ben Fradet
 * Ben Plommer
 * Benjamin Thuillier
-* Bodil Stokke
 * Bogdan Mihai
 * Bogdan Roman
 * Borja Lorente
-* Brian Clapper
 * Brian Hoff
 * Brian Holt
 * Brian Pritchett
@@ -111,7 +133,6 @@ Signed:
 * David Gregory
 * David Smith
 * Davis Zanot
-* Dean Wampler
 * Denis Pyshev
 * Derek Mortimer
 * Dougie Robertson
@@ -123,9 +144,7 @@ Signed:
 * Eddie Kay
 * Elias Court
 * Eric Loots
-* Erik Osheim
 * Ethan Suntag
-* Eugene Yokota
 * Evgenii Kuznetcov
 * Fabio Labella
 * Felix Mulder
@@ -147,7 +166,6 @@ Signed:
 * Guillaume Bogard
 * Hanns Holger Rutz
 * Harish Gontu
-* Heather Miller
 * Herdy Handoko
 * Holden Karau
 * Hungai Amuhinda
@@ -160,14 +178,13 @@ Signed:
 * Jack Wheatley
 * Jakub Kozłowski
 * James Fielder
-* Jamie Allen
 * Jarrod Urban
 * Jasna Rodulfa-Blemberg
 * Jason Martens
 * Jean Yang
+* Jérémie Astori
 * Jeremy Rose
 * Jeremy Smith
-* Jérémie Astori
 * Jesse Atkinson
 * Jessica Siewert
 * Jian Lan
@@ -184,19 +201,16 @@ Signed:
 * Julian Peeters
 * Junhyung Im
 * Justin Pihony
-* Katherine Michel
 * Kailuo Wang
+* Katherine Michel
 * Katrin Grunert
-* Kelley Robinson
 * Kelsey Gilmore-Innis
 * Ken Scambler
 * Kevin Walter
-* kf Fellows
 * Konrad Malawski
 * Kris Nuttycombe
 * Krystal Maughan
 * Lars Albertsson
-* Lars Hupel
 * Lee Smith
 * Leif Warner
 * Lexi Galantino
@@ -204,12 +218,13 @@ Signed:
 * Loránd Szakács
 * Luca Violanti
 * Luis Miguel Mejía Suárez
-* Luka Jacobowitz
 * Lydia Skuse
 * Marc Ramírez
 * Marcos Pereira
-* Mark Janse van Rensburg
+* Mario Pastorelli
+* Mark "Justin du Coeur" Waks
 * Mark Hammons
+* Mark Janse van Rensburg
 * Mark Tomko
 * Mark "Justin du Coeur" Waks
 * Markus Jura
@@ -221,10 +236,8 @@ Signed:
 * Mathis Randl
 * Matt Hughes
 * Matthias Sperl
-* Michael Pilquist
 * Mikolaj Szabó
 * Milan van der Meer
-* Miles Sabin
 * Misir Jafarov
 * Morgen Peschke
 * Moses Nakamura
@@ -235,9 +248,8 @@ Signed:
 * Neville Li
 * Nicolas Rinaudo
 * Noel Georgi
-* Noel Welsh
-* Oscar Boykin
 * Olushola Akinmolayan
+* Oscar Boykin
 * Pajanilingum Renghen
 * Paolo G. Giarrusso
 * Paresh Adhia
@@ -269,16 +281,13 @@ Signed:
 * Rikito Taniguchi
 * Rishabh Agarwal
 * Rishad Sewnarain
-* Rob Norris
 * Rodolfo Hansen
 * Rose Toomey
-* Ross A. Baker
 * Rutger Claes
 * Ryan Peters
 * Ryan Plessner
 * Ryan Tanner
 * Ryan Tomczik
-* Ryan Williams
 * Sam Desborough
 * Sam Pillsworth
 * Sambhav Saggi
@@ -289,7 +298,6 @@ Signed:
 * SeongHyun Lee (Kevin Lee / 케빈 리)
 * Sérgio Teixeira
 * Sebastian Alfers
-* Seth Tisue
 * Shadaj Laddad
 * Simon Dumas
 * Simone Ripamonti
@@ -297,7 +305,6 @@ Signed:
 * Somdev Sangwan
 * Stephen Lazaro
 * Steve Buzzard
-* Stew O’Connor
 * Stewart Stewart
 * Thomas Lockney
 * Thomas Switzer
@@ -306,7 +313,6 @@ Signed:
 * Todd Burnside
 * Tomás Rossi
 * Tony Aldridge
-* Travis Brown
 * Uwe Sommerlatt
 * Vasil Vasilev
 * Vasilis Nicolaou
@@ -324,7 +330,6 @@ Signed:
 * Yufan Gong
 * Yumin Wong
 * Zach McCoy
-* Zainab Ali
 
 
 ### Additional information
