@@ -85,6 +85,8 @@ Additional support:
 * Andrew Marki
 * Andrew Valencik
 * Andy Scott
+* Angelos Michos
+* Anna Bladzich
 * Antoine Comte
 * Antonio Alonso Dominguez
 * Antonio Gelameris
@@ -97,6 +99,7 @@ Additional support:
 * Ben Fradet
 * Ben Plommer
 * Benjamin Thuillier
+* Bogdan Mihai
 * Bogdan Roman
 * Borja Lorente
 * Brian Hoff
@@ -107,10 +110,12 @@ Additional support:
 * Channing Walton
 * Charles Adetiloye
 * Chiin-Rui Tan
+* Choon Kee Oh
 * Chris Kipp
 * Christophe Junke
 * Christopher Davenport
 * Christopher League
+* Christopher Lewis
 * Clement Delafargue
 * Craig Treptow
 * Daniel Hinojosa
@@ -130,6 +135,7 @@ Additional support:
 * Davis Zanot
 * Denis Pyshev
 * Derek Mortimer
+* Dougie Robertson
 * Douglas Clinton
 * Dragisa Krsmanovic
 * Drew Gassaway
@@ -153,6 +159,7 @@ Additional support:
 * Gary Coady
 * Gavin Bisesi
 * Germán Ferrari
+* Gerret Sanders
 * Glenn Liwanag
 * Gorazd Kozmus
 * Greg Pfeil
@@ -171,6 +178,7 @@ Additional support:
 * Jack Wheatley
 * Jakub Kozłowski
 * James Fielder
+* Jarrod Urban
 * Jasna Rodulfa-Blemberg
 * Jason Martens
 * Jean Yang
@@ -178,16 +186,20 @@ Additional support:
 * Jeremy Rose
 * Jeremy Smith
 * Jesse Atkinson
+* Jessica Siewert
 * Jian Lan
 * Jim Miller
 * Jiro Kugiya
 * Joe Lewis
 * Johan Mudsam
 * Johannes Rudolph
+* Jonathan Coveney
 * Jose Raya
 * Josef Vlach
 * Joshua Conner
+* Juan Pedro Moreno
 * Julian Peeters
+* Junhyung Im
 * Justin Pihony
 * Kailuo Wang
 * Katherine Michel
@@ -214,6 +226,9 @@ Additional support:
 * Mark Hammons
 * Mark Janse van Rensburg
 * Mark Tomko
+* Mark "Justin du Coeur" Waks
+* Markus Jura
+* Mario Pastorelli
 * Martijn Hoekstra
 * Martin Carolan
 * Martin Kühl
@@ -221,13 +236,17 @@ Additional support:
 * Mathis Randl
 * Matt Hughes
 * Matthias Sperl
+* Mikolaj Szabó
 * Milan van der Meer
 * Misir Jafarov
 * Morgen Peschke
 * Moses Nakamura
+* Natalia Klyuchnikova
 * Nathan Kleyn
+* Navin Surtani
 * Nawaar Patel
 * Neville Li
+* Nicolas Rinaudo
 * Noel Georgi
 * Olushola Akinmolayan
 * Oscar Boykin
@@ -259,6 +278,7 @@ Additional support:
 * Richard Ashworth
 * Richard Costine
 * Richard Dallaway
+* Rikito Taniguchi
 * Rishabh Agarwal
 * Rishad Sewnarain
 * Rodolfo Hansen
@@ -277,7 +297,9 @@ Additional support:
 * Sean Glover
 * SeongHyun Lee (Kevin Lee / 케빈 리)
 * Sérgio Teixeira
+* Sebastian Alfers
 * Shadaj Laddad
+* Simon Dumas
 * Simone Ripamonti
 * Siu Leung Chan
 * Somdev Sangwan
@@ -294,15 +316,18 @@ Additional support:
 * Uwe Sommerlatt
 * Vasil Vasilev
 * Vasilis Nicolaou
+* Veer Shah
 * Vladimir Kostyukov
 * Waris Radji
 * Will Sargent
 * Wille Faler
 * William Autrey
+* Woohyeong Kim
 * Yann Simon
 * Yao Li
 * Yilin Wei
 * Yoghaswara Hadi Nugroho
+* Yufan Gong
 * Yumin Wong
 * Zach McCoy
 
