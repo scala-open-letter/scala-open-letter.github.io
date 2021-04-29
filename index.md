@@ -62,6 +62,7 @@ Additional support:
 * Alan Johnson
 * Albert Pastrana
 * Aldo Stracquadanio
+* Alec Zorab
 * Aleksander Sumowski
 * Alessandro Marrella
 * Alessandro Zanin
@@ -121,6 +122,7 @@ Additional support:
 * Daniela Sfregola
 * Danny McClanahan
 * Dario Abdulrehman
+* Dario Rexin
 * Dave Pereira-Gurnell
 * David Francoeur
 * David Gregory
@@ -220,9 +222,11 @@ Additional support:
 * Matt Hughes
 * Matthias Sperl
 * Milan van der Meer
+* Misir Jafarov
 * Morgen Peschke
 * Moses Nakamura
 * Nathan Kleyn
+* Nawaar Patel
 * Neville Li
 * Noel Georgi
 * Olushola Akinmolayan
@@ -266,6 +270,7 @@ Additional support:
 * Ryan Tomczik
 * Sam Desborough
 * Sam Pillsworth
+* Sambhav Saggi
 * Sandeep Virdi
 * Saskia Gennrich
 * Sathyaprakash Dhanabal
@@ -286,6 +291,7 @@ Additional support:
 * Todd Burnside
 * Tomás Rossi
 * Tony Aldridge
+* Uwe Sommerlatt
 * Vasil Vasilev
 * Vasilis Nicolaou
 * Vladimir Kostyukov
