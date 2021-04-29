@@ -172,6 +172,7 @@ Signed:
 * Joe Lewis
 * Johan Mudsam
 * Johannes Rudolph
+* Jonathan Coveney
 * Jose Raya
 * Josef Vlach
 * Joshua Conner
