@@ -105,6 +105,7 @@ Additional support:
 * Brian Pritchett
 * Britany Meadows
 * Byron Samaripa
+* Cate Nestor
 * Channing Walton
 * Charles Adetiloye
 * Chiin-Rui Tan
@@ -191,6 +192,7 @@ Additional support:
 * Joe Lewis
 * Johan Mudsam
 * Johannes Rudolph
+* John Nestor
 * Jonathan Coveney
 * Jose Raya
 * Josef Vlach
