@@ -161,6 +161,7 @@ Signed:
 * Jesse Atkinson
 * Jian Lan
 * Jim Miller
+* Jiro Kugiya
 * Joe Lewis
 * Johan Mudsam
 * Johannes Rudolph
