@@ -91,6 +91,7 @@ Signed:
 * Christophe Junke
 * Christopher Davenport
 * Christopher League
+* Christopher Lewis
 * Clement Delafargue
 * Craig Treptow
 * Daniel Hinojosa
