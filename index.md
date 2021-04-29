@@ -61,6 +61,7 @@ Signed:
 * Andrew Marki
 * Andrew Valencik
 * Andy Scott
+* Angelos Michos
 * Anna Bladzich
 * Antoine Comte
 * Antonio Alonso Dominguez
@@ -282,8 +283,8 @@ Signed:
 * Sean Glover
 * SeongHyun Lee (Kevin Lee / 케빈 리)
 * Sérgio Teixeira
-* Seth Tisue
 * Sebastian Alfers
+* Seth Tisue
 * Shadaj Laddad
 * Simone Ripamonti
 * Siu Leung Chan
