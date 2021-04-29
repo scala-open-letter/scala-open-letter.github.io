@@ -298,6 +298,7 @@ Signed:
 * Uwe Sommerlatt
 * Vasil Vasilev
 * Vasilis Nicolaou
+* Veer Shah
 * Vladimir Kostyukov
 * Waris Radji
 * Will Sargent
