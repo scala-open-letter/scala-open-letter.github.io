@@ -282,6 +282,7 @@ Signed:
 * Tomás Rossi
 * Tony Aldridge
 * Travis Brown
+* Uwe Sommerlatt
 * Vasil Vasilev
 * Vasilis Nicolaou
 * Vladimir Kostyukov
