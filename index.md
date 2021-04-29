@@ -229,6 +229,7 @@ Signed:
 * Nathan Kleyn
 * Nawaar Patel
 * Neville Li
+* Nicolas Rinaudo
 * Noel Georgi
 * Noel Welsh
 * Oscar Boykin
