@@ -180,7 +180,6 @@ Additional support:
 * Jasna Rodulfa-Blemberg
 * Jason Martens
 * Jean Yang
-* Jérémie Astori
 * Jeremy Rose
 * Jeremy Smith
 * Jesse Atkinson
@@ -199,6 +198,7 @@ Additional support:
 * Julian Peeters
 * Junhyung Im
 * Justin Pihony
+* Jérémie Astori
 * Kailuo Wang
 * Katherine Michel
 * Katrin Grunert
@@ -220,13 +220,13 @@ Additional support:
 * Marc Ramírez
 * Marcos Pereira
 * Mario Pastorelli
+* Mario Pastorelli
+* Mark "Justin du Coeur" Waks
 * Mark "Justin du Coeur" Waks
 * Mark Hammons
 * Mark Janse van Rensburg
 * Mark Tomko
-* Mark "Justin du Coeur" Waks
 * Markus Jura
-* Mario Pastorelli
 * Martijn Hoekstra
 * Martin Carolan
 * Martin Kühl
@@ -245,6 +245,7 @@ Additional support:
 * Nawaar Patel
 * Neville Li
 * Nicolas Rinaudo
+* Nishant Chatterjee
 * Noel Georgi
 * Olushola Akinmolayan
 * Oscar Boykin
@@ -265,12 +266,10 @@ Additional support:
 * Rafael Fiume
 * Rafał Krzewski
 * Rahul Goma Phulore
-* raichoo
 * Raphaél Parrée
 * Raúl Raja
 * Rebecca Ely
 * Rebecca Mark
-* Régis Kuckaertz
 * Renato Cavalcanti
 * Rhys Sharrem
 * Richard Ashworth
@@ -286,6 +285,7 @@ Additional support:
 * Ryan Plessner
 * Ryan Tanner
 * Ryan Tomczik
+* Régis Kuckaertz
 * Sam Desborough
 * Sam Pillsworth
 * Sambhav Saggi
@@ -293,9 +293,8 @@ Additional support:
 * Saskia Gennrich
 * Sathyaprakash Dhanabal
 * Sean Glover
-* SeongHyun Lee (Kevin Lee / 케빈 리)
-* Sérgio Teixeira
 * Sebastian Alfers
+* SeongHyun Lee (Kevin Lee / 케빈 리)
 * Shadaj Laddad
 * Simon Dumas
 * Simone Ripamonti
@@ -304,6 +303,7 @@ Additional support:
 * Stephen Lazaro
 * Steve Buzzard
 * Stewart Stewart
+* Sérgio Teixeira
 * Thomas Lockney
 * Thomas Switzer
 * Tim Spence
@@ -328,6 +328,7 @@ Additional support:
 * Yufan Gong
 * Yumin Wong
 * Zach McCoy
+* raichoo
 
 
 ### Additional information
