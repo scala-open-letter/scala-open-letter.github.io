@@ -179,6 +179,7 @@ Signed:
 * Jose Raya
 * Josef Vlach
 * Joshua Conner
+* Juan Pedro Moreno
 * Julian Peeters
 * Junhyung Im
 * Justin Pihony
