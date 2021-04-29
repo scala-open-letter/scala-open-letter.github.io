@@ -221,6 +221,7 @@ Signed:
 * Matt Hughes
 * Matthias Sperl
 * Michael Pilquist
+* Mikolaj Szabó
 * Milan van der Meer
 * Miles Sabin
 * Misir Jafarov
