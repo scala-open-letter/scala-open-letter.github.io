@@ -284,6 +284,7 @@ Signed:
 * Travis Brown
 * Vasil Vasilev
 * Vasilis Nicolaou
+* Veer Shah
 * Vladimir Kostyukov
 * Waris Radji
 * Will Sargent
