@@ -266,6 +266,7 @@ Signed:
 * SeongHyun Lee (Kevin Lee / 케빈 리)
 * Sérgio Teixeira
 * Seth Tisue
+* Sebastian Alfers
 * Shadaj Laddad
 * Simone Ripamonti
 * Siu Leung Chan
