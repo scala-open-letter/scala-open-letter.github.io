@@ -207,9 +207,9 @@ Signed:
 * Matt Hughes
 * Matthias Sperl
 * Michael Pilquist
+* Mikolaj Szabó
 * Milan van der Meer
 * Miles Sabin
-* Mikolaj Szabó
 * Morgen Peschke
 * Moses Nakamura
 * Nathan Kleyn
