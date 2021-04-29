@@ -38,6 +38,7 @@ Signed:
 * Alan Johnson
 * Albert Pastrana
 * Aldo Stracquadanio
+* Alec Zorab
 * Aleksander Sumowski
 * Alessandro Marrella
 * Alessandro Zanin
