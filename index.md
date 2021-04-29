@@ -147,6 +147,7 @@ Signed:
 * Imran Javaid
 * Isitha Subasinghe
 * Issel Parra
+* Jack Rudnick
 * Jack Wheatley
 * Jakub Kozłowski
 * James Fielder
