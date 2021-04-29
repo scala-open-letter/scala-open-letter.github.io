@@ -75,6 +75,7 @@ Signed:
 * Ben Plommer
 * Benjamin Thuillier
 * Bodil Stokke
+* Bogdan Mihai
 * Bogdan Roman
 * Borja Lorente
 * Brian Clapper
