@@ -342,6 +342,6 @@ Please read the following statements by people who were targeted:
 * [Statement 1](https://medium.com/@yifanxing/my-experience-with-sexual-harassment-in-the-scala-community-9245b4a139de)
 * [Statement 2](https://killnicole.github.io/statement)
 
-And consider signing the letter:
+And consider signing the letter. 
 
 * [Instructions for signing](https://github.com/scala-open-letter/scala-open-letter.github.io)
