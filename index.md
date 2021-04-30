@@ -80,6 +80,7 @@ Additional support:
 * Amanda Liu
 * Andrea Magnorsky
 * Andrea Peruffo
+* Andrew Che
 * Andrew Gee
 * Andrew Gustafson
 * Andrew Marki
