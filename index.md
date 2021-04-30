@@ -40,6 +40,7 @@ Signed (27 April 2021):
 * kf Fellows
 * Lars Hupel
 * Luka Jacobowitz
+* Michael Lewis
 * Michael Pilquist
 * Miles Sabin
 * Noel Welsh
