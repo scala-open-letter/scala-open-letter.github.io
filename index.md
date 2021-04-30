@@ -106,6 +106,7 @@ Additional support:
 * Bogdan Mihai
 * Bogdan Roman
 * Borja Lorente
+* Bregy Malpartida
 * Brian Hoff
 * Brian Holt
 * Brian Pritchett
