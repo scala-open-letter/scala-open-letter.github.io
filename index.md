@@ -54,6 +54,7 @@ Signed (27 April 2021):
 Additional support:
 
 * Aaditya Menon
+* Aaron S. Hawley
 * Abhishek Srivastava
 * Adam Rosien
 * Ahmad Hassan
