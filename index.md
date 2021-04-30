@@ -178,6 +178,7 @@ Additional support:
 * Jack Wheatley
 * Jakub Kozłowski
 * James Fielder
+* James Warren
 * Jarrod Urban
 * Jasna Rodulfa-Blemberg
 * Jason Martens
