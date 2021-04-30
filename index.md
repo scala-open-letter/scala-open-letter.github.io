@@ -244,6 +244,7 @@ Additional support:
 * Mathis Randl
 * Matt Hughes
 * Matthias Sperl
+* Michael Pollmeier
 * Mikolaj Szabó
 * Milan van der Meer
 * Misir Jafarov
