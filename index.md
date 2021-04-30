@@ -153,6 +153,7 @@ Additional support:
 * Ethan Suntag
 * Evgenii Kuznetcov
 * Fabio Labella
+* Felix Bruckmeier
 * Felix Mulder
 * Filipe Regadas
 * Filippo Costa
