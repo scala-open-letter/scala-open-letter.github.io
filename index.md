@@ -181,6 +181,7 @@ Additional support:
 * Jarrod Urban
 * Jasna Rodulfa-Blemberg
 * Jason Martens
+* Jean Helou
 * Jean Yang
 * Jérémie Astori
 * Jeremy Rose
