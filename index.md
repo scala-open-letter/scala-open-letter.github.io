@@ -96,6 +96,7 @@ Additional support:
 * Antonio Gelameris
 * April Hyacinth
 * Artie Pesh-Imam
+* Arya Irani
 * Attila Szegedi
 * Barrie McGuire
 * Bart Schuller
