@@ -77,6 +77,7 @@ Additional support:
 * Alexandru Nedelcu
 * Ali S. Rashid
 * Amanda Liu
+* Amy Hughes
 * Andrea Magnorsky
 * Andrea Peruffo
 * Andrew Gee
