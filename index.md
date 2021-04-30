@@ -66,7 +66,6 @@ Additional support:
 * Alessandro Zanin
 * Alex Berry
 * Alex Cameron
-* Alex Khvatov
 * Alex Levenson
 * Alex McGuire
 * Alex Merritt
