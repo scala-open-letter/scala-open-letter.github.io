@@ -211,6 +211,7 @@ Additional support:
 * Lars Albertsson
 * Lee Smith
 * Leif Warner
+* Levi Richardson
 * Lexi Galantino
 * Long Cao
 * Loránd Szakács
