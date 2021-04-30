@@ -66,6 +66,7 @@ Additional support:
 * Aleksander Sumowski
 * Alessandro Marrella
 * Alessandro Zanin
+* Alessandro Zoffoli
 * Alex Berry
 * Alex Cameron
 * Alex Khvatov
