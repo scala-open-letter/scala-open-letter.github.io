@@ -40,6 +40,7 @@ Signed (27 April 2021):
 * kf Fellows
 * Lars Hupel
 * Luka Jacobowitz
+* Michael Lewis
 * Michael Pilquist
 * Miles Sabin
 * Noel Welsh
@@ -54,6 +55,7 @@ Signed (27 April 2021):
 Additional support:
 
 * Aaditya Menon
+* Aaron S. Hawley
 * Abhishek Srivastava
 * Adam Rosien
 * Ahmad Hassan
@@ -78,8 +80,10 @@ Additional support:
 * Ali S. Rashid
 * Amanda Liu
 * Amy Hughes
+* Amy Wong
 * Andrea Magnorsky
 * Andrea Peruffo
+* Andrew Che
 * Andrew Gee
 * Andrew Gustafson
 * Andrew Marki
@@ -157,6 +161,7 @@ Additional support:
 * Frank Thomas
 * Gabor Pihaj
 * Gabriel Volpe
+* Gagan Bhatia
 * Gary Coady
 * Gavin Bisesi
 * Germán Ferrari
@@ -182,6 +187,7 @@ Additional support:
 * Jarrod Urban
 * Jasna Rodulfa-Blemberg
 * Jason Martens
+* Jean Helou
 * Jean Yang
 * Jérémie Astori
 * Jeremy Rose
@@ -209,6 +215,7 @@ Additional support:
 * Kelsey Gilmore-Innis
 * Ken Scambler
 * Kevin Walter
+* Kien Dang
 * Konrad Malawski
 * Kris Nuttycombe
 * Krystal Maughan
@@ -229,9 +236,7 @@ Additional support:
 * Mark Hammons
 * Mark Janse van Rensburg
 * Mark Tomko
-* Mark "Justin du Coeur" Waks
 * Markus Jura
-* Mario Pastorelli
 * Martijn Hoekstra
 * Martin Carolan
 * Martin Kühl
@@ -300,8 +305,8 @@ Additional support:
 * Sathyaprakash Dhanabal
 * Sean Glover
 * SeongHyun Lee (Kevin Lee / 케빈 리)
-* Sérgio Teixeira
 * Sebastian Alfers
+* Sérgio Teixeira
 * Shadaj Laddad
 * Simon Dumas
 * Simone Ripamonti
