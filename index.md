@@ -159,6 +159,7 @@ Additional support:
 * Frank Thomas
 * Gabor Pihaj
 * Gabriel Volpe
+* Gagan Bhatia
 * Gary Coady
 * Gavin Bisesi
 * Germán Ferrari
