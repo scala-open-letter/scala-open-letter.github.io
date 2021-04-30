@@ -245,6 +245,7 @@ Additional support:
 * Nawaar Patel
 * Neville Li
 * Nicolas Rinaudo
+* Nishant Chatterjee
 * Noel Georgi
 * Olushola Akinmolayan
 * Oscar Boykin
