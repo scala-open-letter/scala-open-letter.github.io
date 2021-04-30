@@ -264,6 +264,7 @@ Additional support:
 * Phil Curzon
 * Pierangelo Cecchetto
 * Pierre Dal-Pra
+* Pieter Van Geel
 * Piyush Purang
 * Priya Viseskul
 * Rafa Paradela
