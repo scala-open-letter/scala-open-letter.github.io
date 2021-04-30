@@ -297,8 +297,8 @@ Additional support:
 * Sathyaprakash Dhanabal
 * Sean Glover
 * SeongHyun Lee (Kevin Lee / 케빈 리)
-* Sérgio Teixeira
 * Sebastian Alfers
+* Sérgio Teixeira
 * Shadaj Laddad
 * Simon Dumas
 * Simone Ripamonti
