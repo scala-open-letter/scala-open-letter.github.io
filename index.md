@@ -228,9 +228,7 @@ Additional support:
 * Mark Hammons
 * Mark Janse van Rensburg
 * Mark Tomko
-* Mark "Justin du Coeur" Waks
 * Markus Jura
-* Mario Pastorelli
 * Martijn Hoekstra
 * Martin Carolan
 * Martin Kühl
