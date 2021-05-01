@@ -89,6 +89,7 @@ Additional support:
 * Andrew Gustafson
 * Andrew Marki
 * Andrew Valencik
+* André Luiz Ferreira Pinto
 * Andy Scott
 * Angel Ortega
 * Angelos Michos
