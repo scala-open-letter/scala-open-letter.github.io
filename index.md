@@ -90,6 +90,7 @@ Additional support:
 * Andrew Marki
 * Andrew Valencik
 * Andy Scott
+* Angel Ortega
 * Angelos Michos
 * Anna Bladzich
 * Antoine Comte
