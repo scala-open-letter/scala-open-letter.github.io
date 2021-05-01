@@ -169,6 +169,7 @@ Additional support:
 * Gabor Pihaj
 * Gabriel Volpe
 * Gagan Bhatia
+* Ganga Tankasala
 * Gary Coady
 * Gavin Bisesi
 * Germán Ferrari
