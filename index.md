@@ -91,6 +91,7 @@ Additional support:
 * Andrew Valencik
 * Andy Scott
 * Angelos Michos
+* Ankit Dobhal
 * Anna Bladzich
 * Antoine Comte
 * Antonio Alonso Dominguez
