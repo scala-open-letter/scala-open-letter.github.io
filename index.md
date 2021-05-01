@@ -240,6 +240,7 @@ Additional support:
 * Mark "Justin du Coeur" Waks
 * Mark Hammons
 * Mark Janse van Rensburg
+* Mark C. Lewis
 * Mark Tomko
 * Markus Jura
 * Martijn Hoekstra
