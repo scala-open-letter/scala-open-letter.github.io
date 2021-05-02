@@ -91,7 +91,6 @@ Additional support:
 * Andrew Valencik
 * André Luiz Ferreira Pinto
 * Andy Scott
-* Angel Ortega
 * Angelos Michos
 * Ankit Dobhal
 * Anna Bladzich
