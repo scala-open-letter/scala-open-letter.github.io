@@ -336,6 +336,7 @@ Additional support:
 * Todd Burnside
 * Tomás Rossi
 * Tony Aldridge
+* Tun Shwe
 * Uwe Sommerlatt
 * Vasil Vasilev
 * Vasilis Nicolaou
