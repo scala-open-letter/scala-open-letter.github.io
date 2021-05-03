@@ -175,6 +175,7 @@ Additional support:
 * Gerret Sanders
 * Glenn Liwanag
 * Gorazd Kozmus
+* Greg Lim-Stromire
 * Greg Pfeil
 * Guillaume Bogard
 * Hanns Holger Rutz
