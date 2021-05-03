@@ -144,6 +144,7 @@ Additional support:
 * David Smith
 * Davis Zanot
 * Denis Pyshev
+* Derek Chen-Becker
 * Derek Mortimer
 * Dougie Robertson
 * Douglas Clinton
