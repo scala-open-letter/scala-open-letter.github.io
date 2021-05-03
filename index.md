@@ -237,6 +237,7 @@ Additional support:
 * Long Cao
 * Loránd Szakács
 * Luca Violanti
+* Ludovic Claude
 * Luis Miguel Mejía Suárez
 * Lydia Skuse
 * Marc Ramírez
