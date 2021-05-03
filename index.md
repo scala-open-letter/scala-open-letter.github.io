@@ -192,6 +192,7 @@ Additional support:
 * Jakub Kozłowski
 * James Fielder
 * James Warren
+* Janek Bogucki
 * Jarrod Urban
 * Jasna Rodulfa-Blemberg
 * Jason Martens
