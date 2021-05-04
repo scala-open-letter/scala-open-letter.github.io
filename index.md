@@ -179,6 +179,7 @@ Additional support:
 * Greg Lim-Stromire
 * Greg Pfeil
 * Guillaume Bogard
+* Guillaume Martres
 * Hanns Holger Rutz
 * Harish Gontu
 * Herdy Handoko
