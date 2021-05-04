@@ -178,6 +178,7 @@ Additional support:
 * Gorazd Kozmus
 * Greg Lim-Stromire
 * Greg Pfeil
+* Gregor Heine
 * Guillaume Bogard
 * Hanns Holger Rutz
 * Harish Gontu
