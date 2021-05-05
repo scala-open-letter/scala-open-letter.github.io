@@ -136,6 +136,7 @@ Additional support:
 * Daniel Tattan-Birch
 * Daniel Westheide
 * Daniela Sfregola
+* Danielle Gourgey
 * Danny McClanahan
 * Dario Abdulrehman
 * Dario Rexin
