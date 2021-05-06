@@ -80,6 +80,7 @@ Additional support:
 * Alexandru Nedelcu
 * Ali S. Rashid
 * Amanda Liu
+* Ambroise Dhenain
 * Amina Adewusi
 * Amy Hughes
 * Amy Wong
