@@ -268,6 +268,7 @@ Additional support:
 * Misir Jafarov
 * Morgen Peschke
 * Moses Nakamura
+* Muki Seiler
 * Natalia Klyuchnikova
 * Nathan Kleyn
 * Navin Surtani
