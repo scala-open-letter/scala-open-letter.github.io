@@ -239,6 +239,7 @@ Additional support:
 * Leif Warner
 * Levi Richardson
 * Lexi Galantino
+* Lin Lee
 * Long Cao
 * Loránd Szakács
 * Luca Violanti
