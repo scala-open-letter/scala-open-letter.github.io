@@ -263,6 +263,7 @@ Additional support:
 * Matthias Sperl
 * Michael Pollmeier
 * Michael Xavier
+* Michel Steuwer
 * Mikolaj Szabó
 * Milan van der Meer
 * Misir Jafarov
