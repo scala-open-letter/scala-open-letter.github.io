@@ -336,6 +336,7 @@ Additional support:
 * Stephen Lazaro
 * Steve Buzzard
 * Stewart Stewart
+* Stuart White
 * Thomas Lockney
 * Thomas Switzer
 * Tim Spence
