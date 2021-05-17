@@ -195,6 +195,7 @@ Additional support:
 * Issel Parra
 * Jack Rudnick
 * Jack Wheatley
+* Jakub Błaszczyk
 * Jakub Kozłowski
 * James Fielder
 * James Warren
