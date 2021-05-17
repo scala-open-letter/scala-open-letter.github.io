@@ -59,6 +59,7 @@ Additional support:
 * Abhishek Srivastava
 * Adam Rosien
 * Ahmad Hassan
+* Akshi Vadde
 * Alan Johnson
 * Albert Pastrana
 * Aldo Stracquadanio
