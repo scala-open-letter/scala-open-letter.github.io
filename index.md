@@ -150,6 +150,7 @@ Additional support:
 * Denis Pyshev
 * Derek Chen-Becker
 * Derek Mortimer
+* Dorian Davi
 * Dougie Robertson
 * Douglas Clinton
 * Dragisa Krsmanovic
