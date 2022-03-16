@@ -54,9 +54,11 @@ Signed (27 April 2021):
 Additional support:
 
 * Aaditya Menon
+* Aaron S. Hawley
 * Abhishek Srivastava
 * Adam Rosien
 * Ahmad Hassan
+* Akshi Vadde
 * Alan Johnson
 * Albert Pastrana
 * Aldo Stracquadanio
@@ -64,6 +66,7 @@ Additional support:
 * Aleksander Sumowski
 * Alessandro Marrella
 * Alessandro Zanin
+* Alessandro Zoffoli
 * Alex Berry
 * Alex Cameron
 * Alex Khvatov
@@ -77,20 +80,28 @@ Additional support:
 * Alexandru Nedelcu
 * Ali S. Rashid
 * Amanda Liu
+* Ambroise Dhenain
+* Amina Adewusi
+* Amy Hughes
+* Amy Wong
 * Andrea Magnorsky
 * Andrea Peruffo
+* Andrew Che
 * Andrew Gee
 * Andrew Gustafson
 * Andrew Marki
 * Andrew Valencik
+* André Luiz Ferreira Pinto
 * Andy Scott
 * Angelos Michos
+* Ankit Dobhal
 * Anna Bladzich
 * Antoine Comte
 * Antonio Alonso Dominguez
 * Antonio Gelameris
 * April Hyacinth
 * Artie Pesh-Imam
+* Arya Irani
 * Attila Szegedi
 * Barrie McGuire
 * Bart Schuller
@@ -101,6 +112,7 @@ Additional support:
 * Bogdan Mihai
 * Bogdan Roman
 * Borja Lorente
+* Bregy Malpartida
 * Brian Hoff
 * Brian Holt
 * Brian Pritchett
@@ -125,6 +137,7 @@ Additional support:
 * Daniel Tattan-Birch
 * Daniel Westheide
 * Daniela Sfregola
+* Danielle Gourgey
 * Danny McClanahan
 * Dario Abdulrehman
 * Dario Rexin
@@ -134,6 +147,7 @@ Additional support:
 * David Smith
 * Davis Zanot
 * Denis Pyshev
+* Derek Chen-Becker
 * Derek Mortimer
 * Dougie Robertson
 * Douglas Clinton
@@ -147,6 +161,7 @@ Additional support:
 * Ethan Suntag
 * Evgenii Kuznetcov
 * Fabio Labella
+* Felix Bruckmeier
 * Felix Mulder
 * Filipe Regadas
 * Filippo Costa
@@ -156,14 +171,19 @@ Additional support:
 * Frank Thomas
 * Gabor Pihaj
 * Gabriel Volpe
+* Gagan Bhatia
+* Ganga Tankasala
 * Gary Coady
 * Gavin Bisesi
 * Germán Ferrari
 * Gerret Sanders
 * Glenn Liwanag
 * Gorazd Kozmus
+* Greg Lim-Stromire
 * Greg Pfeil
+* Gregor Heine
 * Guillaume Bogard
+* Guillaume Martres
 * Hanns Holger Rutz
 * Harish Gontu
 * Herdy Handoko
@@ -176,11 +196,15 @@ Additional support:
 * Issel Parra
 * Jack Rudnick
 * Jack Wheatley
+* Jakub Błaszczyk
 * Jakub Kozłowski
 * James Fielder
+* James Warren
+* Janek Bogucki
 * Jarrod Urban
 * Jasna Rodulfa-Blemberg
 * Jason Martens
+* Jean Helou
 * Jean Yang
 * Jérémie Astori
 * Jeremy Rose
@@ -208,6 +232,7 @@ Additional support:
 * Kelsey Gilmore-Innis
 * Ken Scambler
 * Kevin Walter
+* Kien Dang
 * Konrad Malawski
 * Kris Nuttycombe
 * Krystal Maughan
@@ -216,9 +241,11 @@ Additional support:
 * Leif Warner
 * Levi Richardson
 * Lexi Galantino
+* Lin Lee
 * Long Cao
 * Loránd Szakács
 * Luca Violanti
+* Ludovic Claude
 * Luis Miguel Mejía Suárez
 * Lydia Skuse
 * Marc Ramírez
@@ -227,10 +254,9 @@ Additional support:
 * Mark "Justin du Coeur" Waks
 * Mark Hammons
 * Mark Janse van Rensburg
+* Mark C. Lewis
 * Mark Tomko
-* Mark "Justin du Coeur" Waks
 * Markus Jura
-* Mario Pastorelli
 * Martijn Hoekstra
 * Martin Carolan
 * Martin Kühl
@@ -238,11 +264,15 @@ Additional support:
 * Mathis Randl
 * Matt Hughes
 * Matthias Sperl
+* Michael Pollmeier
+* Michael Xavier
+* Michel Steuwer
 * Mikolaj Szabó
 * Milan van der Meer
 * Misir Jafarov
 * Morgen Peschke
 * Moses Nakamura
+* Muki Seiler
 * Natalia Klyuchnikova
 * Nathan Kleyn
 * Navin Surtani
@@ -264,6 +294,7 @@ Additional support:
 * Phil Curzon
 * Pierangelo Cecchetto
 * Pierre Dal-Pra
+* Pieter Van Geel
 * Piyush Purang
 * Priya Viseskul
 * Rafa Paradela
@@ -299,8 +330,8 @@ Additional support:
 * Sathyaprakash Dhanabal
 * Sean Glover
 * SeongHyun Lee (Kevin Lee / 케빈 리)
-* Sérgio Teixeira
 * Sebastian Alfers
+* Sérgio Teixeira
 * Shadaj Laddad
 * Simon Dumas
 * Simone Ripamonti
@@ -309,6 +340,7 @@ Additional support:
 * Stephen Lazaro
 * Steve Buzzard
 * Stewart Stewart
+* Stuart White
 * Thomas Lockney
 * Thomas Switzer
 * Tim Spence
@@ -316,6 +348,7 @@ Additional support:
 * Todd Burnside
 * Tomás Rossi
 * Tony Aldridge
+* Tun Shwe
 * Uwe Sommerlatt
 * Vasil Vasilev
 * Vasilis Nicolaou
