@@ -85,7 +85,6 @@ Additional support:
 * Andrew Che
 * Andrew Gee
 * Andrew Gustafson
-* Andrew Marki
 * Andrew Valencik
 * André Luiz Ferreira Pinto
 * Andy Scott
