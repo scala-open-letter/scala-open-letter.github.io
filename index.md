@@ -29,7 +29,6 @@ Signed (27 April 2021):
 
 * Adelbert Chang
 * Adrienne L. Travis
-* Bodil Stokke
 * Brian Clapper
 * Dean Wampler
 * Erik Osheim
@@ -41,15 +40,12 @@ Signed (27 April 2021):
 * Lars Hupel
 * Luka Jacobowitz
 * Michael Pilquist
-* Miles Sabin
-* Noel Welsh
 * Rob Norris
 * Ross A. Baker
 * Ryan Williams
 * Seth Tisue
 * Stew O’Connor
 * Travis Brown
-* Zainab Ali
 
 Additional support:
 
