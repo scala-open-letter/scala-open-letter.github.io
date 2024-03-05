@@ -1,3 +1,5 @@
+**NOTE:** This repo is closed.
+
 # Open letter of support for community members targeted by Jon Pretty
 
 ## Instructions for signing
