@@ -310,7 +310,6 @@ Additional support:
 * Rikito Taniguchi
 * Rishabh Agarwal
 * Rishad Sewnarain
-* Rodolfo Hansen
 * Rose Toomey
 * Rutger Claes
 * Ryan Peters
