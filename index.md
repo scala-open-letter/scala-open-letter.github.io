@@ -327,6 +327,7 @@ Additional support:
 * SeongHyun Lee (Kevin Lee / 케빈 리)
 * Sebastian Alfers
 * Sérgio Teixeira
+* Sergi Gonzalez
 * Shadaj Laddad
 * Simon Dumas
 * Simone Ripamonti
