@@ -295,7 +295,6 @@ Additional support:
 * Rafa Paradela
 * Rafael Fiume
 * Rafał Krzewski
-* Rahul Goma Phulore
 * raichoo
 * Raphaél Parrée
 * Raúl Raja
