@@ -353,7 +353,6 @@ Additional support:
 * William Autrey
 * Woohyeong Kim
 * Yann Simon
-* Yao Li
 * Yilin Wei
 * Yoghaswara Hadi Nugroho
 * Yufan Gong
