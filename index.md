@@ -160,7 +160,6 @@ Additional support:
 * Filipe Regadas
 * Filippo Costa
 * Filippo De Luca
-* Flavio Brasil
 * Francesco Pellegrini
 * Frank Thomas
 * Gabor Pihaj
