@@ -285,7 +285,6 @@ Additional support:
 * Peter Hilton
 * Peter László
 * Phil Curzon
-* Pierangelo Cecchetto
 * Pierre Dal-Pra
 * Pieter Van Geel
 * Piyush Purang
