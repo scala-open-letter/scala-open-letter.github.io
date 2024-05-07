@@ -73,7 +73,6 @@ Additional support:
 * Alexandre Bertails
 * Alexandre Berthaud
 * Alexandros Bourantas
-* Alexandru Nedelcu
 * Ali S. Rashid
 * Amanda Liu
 * Ambroise Dhenain
