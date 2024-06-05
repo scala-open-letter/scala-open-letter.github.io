@@ -310,7 +310,6 @@ Additional support:
 * Ryan Peters
 * Ryan Plessner
 * Ryan Tanner
-* Ryan Tomczik
 * Sam Desborough
 * Sam Pillsworth
 * Sambhav Saggi
