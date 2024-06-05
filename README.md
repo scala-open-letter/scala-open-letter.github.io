@@ -1,4 +1,4 @@
-**NOTE:** This repo is closed.
+**NOTE:** This repo is closed. Do _not_ open issues; they will be summarily closed and ignored.
 
 # Open letter of support for community members targeted by Jon Pretty
 

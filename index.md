@@ -73,7 +73,6 @@ Additional support:
 * Alexandre Bertails
 * Alexandre Berthaud
 * Alexandros Bourantas
-* Alexandru Nedelcu
 * Ali S. Rashid
 * Amanda Liu
 * Ambroise Dhenain
@@ -155,13 +154,11 @@ Additional support:
 * Eric Loots
 * Ethan Suntag
 * Evgenii Kuznetcov
-* Fabio Labella
 * Felix Bruckmeier
 * Felix Mulder
 * Filipe Regadas
 * Filippo Costa
 * Filippo De Luca
-* Flavio Brasil
 * Francesco Pellegrini
 * Frank Thomas
 * Gabor Pihaj
@@ -287,7 +284,6 @@ Additional support:
 * Peter Hilton
 * Peter László
 * Phil Curzon
-* Pierangelo Cecchetto
 * Pierre Dal-Pra
 * Pieter Van Geel
 * Piyush Purang
@@ -295,7 +291,6 @@ Additional support:
 * Rafa Paradela
 * Rafael Fiume
 * Rafał Krzewski
-* Rahul Goma Phulore
 * raichoo
 * Raphaél Parrée
 * Raúl Raja
@@ -354,7 +349,6 @@ Additional support:
 * William Autrey
 * Woohyeong Kim
 * Yann Simon
-* Yao Li
 * Yilin Wei
 * Yoghaswara Hadi Nugroho
 * Yufan Gong
