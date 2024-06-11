@@ -133,7 +133,6 @@ Additional support:
 * Daniela Sfregola
 * Danielle Gourgey
 * Danny McClanahan
-* Dario Abdulrehman
 * Dario Rexin
 * Dave Pereira-Gurnell
 * David Francoeur
