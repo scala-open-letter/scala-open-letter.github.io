@@ -297,7 +297,6 @@ Additional support:
 * Rebecca Ely
 * Rebecca Mark
 * Régis Kuckaertz
-* Renato Cavalcanti
 * Rhys Sharrem
 * Richard Ashworth
 * Richard Costine
