@@ -113,7 +113,6 @@ Additional support:
 * Britany Meadows
 * Byron Samaripa
 * Cate Nestor
-* Channing Walton
 * Charles Adetiloye
 * Chiin-Rui Tan
 * Choon Kee Oh
