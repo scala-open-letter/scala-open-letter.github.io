@@ -166,7 +166,6 @@ Additional support:
 * Gary Coady
 * Gavin Bisesi
 * Germán Ferrari
-* Gerret Sanders
 * Glenn Liwanag
 * Gorazd Kozmus
 * Greg Lim-Stromire
