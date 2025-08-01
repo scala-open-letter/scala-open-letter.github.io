@@ -245,7 +245,6 @@ Additional support:
 * Mark Janse van Rensburg
 * Mark C. Lewis
 * Mark Tomko
-* Markus Jura
 * Martijn Hoekstra
 * Martin Carolan
 * Martin Kühl
