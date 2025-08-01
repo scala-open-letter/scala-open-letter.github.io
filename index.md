@@ -55,7 +55,7 @@ Additional support:
 * Adam Rosien
 * Ahmad Hassan
 * Akshi Vadde
-* Alan Johnson
+* ~~Alan Johnson~~ (retracted by Alan's request)
 * Albert Pastrana
 * Aldo Stracquadanio
 * Alec Zorab
