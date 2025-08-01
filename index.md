@@ -292,7 +292,6 @@ Additional support:
 * Raúl Raja
 * Rebecca Ely
 * Rebecca Mark
-* Régis Kuckaertz
 * Rhys Sharrem
 * Richard Ashworth
 * Richard Costine
