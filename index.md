@@ -360,3 +360,8 @@ Please read the following statements by people who were targeted:
 And consider signing the letter:
 
 * [Instructions for signing](https://github.com/scala-open-letter/scala-open-letter.github.io)
+
+In the interest of full transparency and the fundamental principle of due process, the following links contain Jon Pretty's statements regarding the topic:
+
+* Legal developments: https://pretty.direct/statement
+* Cancellation impact: https://pretty.direct/impact
