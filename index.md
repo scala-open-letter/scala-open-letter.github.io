@@ -336,7 +336,6 @@ Additional support:
 * Tun Shwe
 * Uwe Sommerlatt
 * Vasil Vasilev
-* Vasilis Nicolaou
 * Veer Shah
 * Vladimir Kostyukov
 * Waris Radji
