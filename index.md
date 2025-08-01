@@ -222,7 +222,6 @@ Additional support:
 * Ken Scambler
 * Kevin Walter
 * Kien Dang
-* Konrad Malawski
 * Kris Nuttycombe
 * Krystal Maughan
 * Lars Albertsson
