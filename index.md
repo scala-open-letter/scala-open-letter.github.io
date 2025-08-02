@@ -160,7 +160,6 @@ Additional support:
 * Francesco Pellegrini
 * Frank Thomas
 * Gabor Pihaj
-* Gabriel Volpe
 * Gagan Bhatia
 * Ganga Tankasala
 * Gary Coady
