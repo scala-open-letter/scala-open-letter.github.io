@@ -186,7 +186,6 @@ Additional support:
 * Jack Rudnick
 * Jack Wheatley
 * Jakub Błaszczyk
-* Jakub Kozłowski
 * James Fielder
 * James Warren
 * Janek Bogucki
