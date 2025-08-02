@@ -60,7 +60,6 @@ Additional support:
 * Aldo Stracquadanio
 * Alec Zorab
 * Aleksander Sumowski
-* Alessandro Marrella
 * Alessandro Zanin
 * Alessandro Zoffoli
 * Alex Berry
