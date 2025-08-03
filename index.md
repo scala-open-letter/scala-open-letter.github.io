@@ -283,7 +283,6 @@ Additional support:
 * Rafael Fiume
 * Rafał Krzewski
 * raichoo
-* Raphaél Parrée
 * Raúl Raja
 * Rebecca Ely
 * Rebecca Mark
