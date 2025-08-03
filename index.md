@@ -276,7 +276,6 @@ Additional support:
 * Pere Villega
 * Peter Hilton
 * Peter László
-* Phil Curzon
 * Pierre Dal-Pra
 * Pieter Van Geel
 * Piyush Purang
