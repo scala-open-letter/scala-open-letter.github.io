@@ -294,7 +294,6 @@ Additional support:
 * Rebecca Mark
 * Régis Kuckaertz
 * Rhys Sharrem
-* Richard Ashworth
 * Richard Costine
 * Richard Dallaway
 * Rikito Taniguchi
