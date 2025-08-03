@@ -55,12 +55,11 @@ Additional support:
 * Adam Rosien
 * Ahmad Hassan
 * Akshi Vadde
-* Alan Johnson
+* ~~Alan Johnson~~ (retracted by Alan's request)
 * Albert Pastrana
 * Aldo Stracquadanio
 * Alec Zorab
 * Aleksander Sumowski
-* Alessandro Marrella
 * Alessandro Zanin
 * Alessandro Zoffoli
 * Alex Berry
@@ -116,7 +115,6 @@ Additional support:
 * Charles Adetiloye
 * Chiin-Rui Tan
 * Choon Kee Oh
-* Chris Kipp
 * Christophe Junke
 * Christopher Davenport
 * Christopher League
@@ -124,7 +122,6 @@ Additional support:
 * Clement Delafargue
 * Craig Treptow
 * Daniel Hinojosa
-* Daniel Karch
 * Daniel Peebles
 * Daniel Spiewak
 * Daniel Tattan-Birch
@@ -143,7 +140,6 @@ Additional support:
 * Derek Mortimer
 * Dougie Robertson
 * Douglas Clinton
-* Dragisa Krsmanovic
 * Drew Gassaway
 * Dylan Martin
 * Eda Meadows
@@ -160,7 +156,6 @@ Additional support:
 * Francesco Pellegrini
 * Frank Thomas
 * Gabor Pihaj
-* Gabriel Volpe
 * Gagan Bhatia
 * Ganga Tankasala
 * Gary Coady
@@ -186,7 +181,6 @@ Additional support:
 * Jack Rudnick
 * Jack Wheatley
 * Jakub Błaszczyk
-* Jakub Kozłowski
 * James Fielder
 * James Warren
 * Janek Bogucki
@@ -209,7 +203,6 @@ Additional support:
 * John Nestor
 * Jonathan Coveney
 * Jose Raya
-* Josef Vlach
 * Joshua Conner
 * Juan Pedro Moreno
 * Julian Peeters
@@ -221,7 +214,6 @@ Additional support:
 * Kelsey Gilmore-Innis
 * Ken Scambler
 * Kevin Walter
-* Kien Dang
 * Kris Nuttycombe
 * Krystal Maughan
 * Lars Albertsson
@@ -244,7 +236,6 @@ Additional support:
 * Mark Janse van Rensburg
 * Mark C. Lewis
 * Mark Tomko
-* Markus Jura
 * Martijn Hoekstra
 * Martin Carolan
 * Martin Kühl
@@ -256,7 +247,6 @@ Additional support:
 * Michael Xavier
 * Michel Steuwer
 * Mikolaj Szabó
-* Milan van der Meer
 * Misir Jafarov
 * Morgen Peschke
 * Moses Nakamura
@@ -269,7 +259,6 @@ Additional support:
 * Nicolas Rinaudo
 * Nishant Chatterjee
 * Noel Georgi
-* Olushola Akinmolayan
 * Oscar Boykin
 * Pajanilingum Renghen
 * Paolo G. Giarrusso
@@ -279,7 +268,6 @@ Additional support:
 * Pere Villega
 * Peter Hilton
 * Peter László
-* Phil Curzon
 * Pierre Dal-Pra
 * Pieter Van Geel
 * Piyush Purang
@@ -288,13 +276,10 @@ Additional support:
 * Rafael Fiume
 * Rafał Krzewski
 * raichoo
-* Raphaél Parrée
 * Raúl Raja
 * Rebecca Ely
 * Rebecca Mark
-* Régis Kuckaertz
 * Rhys Sharrem
-* Richard Ashworth
 * Richard Costine
 * Richard Dallaway
 * Rikito Taniguchi
@@ -335,7 +320,6 @@ Additional support:
 * Tun Shwe
 * Uwe Sommerlatt
 * Vasil Vasilev
-* Vasilis Nicolaou
 * Veer Shah
 * Vladimir Kostyukov
 * Waris Radji
