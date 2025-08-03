@@ -123,7 +123,6 @@ Additional support:
 * Clement Delafargue
 * Craig Treptow
 * Daniel Hinojosa
-* Daniel Karch
 * Daniel Peebles
 * Daniel Spiewak
 * Daniel Tattan-Birch
