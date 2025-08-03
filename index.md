@@ -214,7 +214,6 @@ Additional support:
 * Kelsey Gilmore-Innis
 * Ken Scambler
 * Kevin Walter
-* Konrad Malawski
 * Kris Nuttycombe
 * Krystal Maughan
 * Lars Albertsson
