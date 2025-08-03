@@ -254,7 +254,6 @@ Additional support:
 * Michael Xavier
 * Michel Steuwer
 * Mikolaj Szabó
-* Milan van der Meer
 * Misir Jafarov
 * Morgen Peschke
 * Moses Nakamura
