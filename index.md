@@ -260,7 +260,6 @@ Additional support:
 * Nicolas Rinaudo
 * Nishant Chatterjee
 * Noel Georgi
-* Olushola Akinmolayan
 * Oscar Boykin
 * Pajanilingum Renghen
 * Paolo G. Giarrusso
