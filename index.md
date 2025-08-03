@@ -216,7 +216,6 @@ Additional support:
 * Kelsey Gilmore-Innis
 * Ken Scambler
 * Kevin Walter
-* Kien Dang
 * Konrad Malawski
 * Kris Nuttycombe
 * Krystal Maughan
