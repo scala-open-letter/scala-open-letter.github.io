@@ -142,7 +142,6 @@ Additional support:
 * Derek Mortimer
 * Dougie Robertson
 * Douglas Clinton
-* Dragisa Krsmanovic
 * Drew Gassaway
 * Dylan Martin
 * Eda Meadows
