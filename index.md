@@ -205,7 +205,6 @@ Additional support:
 * John Nestor
 * Jonathan Coveney
 * Jose Raya
-* Josef Vlach
 * Joshua Conner
 * Juan Pedro Moreno
 * Julian Peeters
