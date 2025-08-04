@@ -154,7 +154,6 @@ Additional support:
 * Filippo Costa
 * Filippo De Luca
 * Francesco Pellegrini
-* Frank Thomas
 * Gabor Pihaj
 * Gagan Bhatia
 * Ganga Tankasala
