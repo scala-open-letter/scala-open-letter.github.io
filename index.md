@@ -161,7 +161,6 @@ Additional support:
 * Gavin Bisesi
 * Germán Ferrari
 * Glenn Liwanag
-* Gorazd Kozmus
 * Greg Lim-Stromire
 * Greg Pfeil
 * Gregor Heine
