@@ -95,7 +95,6 @@ Additional support:
 * April Hyacinth
 * Artie Pesh-Imam
 * Arya Irani
-* Attila Szegedi
 * Barrie McGuire
 * Bart Schuller
 * Bartosz Bierkowski
