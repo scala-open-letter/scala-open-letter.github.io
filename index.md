@@ -265,7 +265,6 @@ Additional support:
 * Pere Villega
 * Peter Hilton
 * Peter László
-* Pierre Dal-Pra
 * Pieter Van Geel
 * Piyush Purang
 * Priya Viseskul
