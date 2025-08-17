@@ -85,7 +85,6 @@ Additional support:
 * Andrew Gustafson
 * Andrew Valencik
 * André Luiz Ferreira Pinto
-* Andy Scott
 * Angelos Michos
 * Ankit Dobhal
 * Anna Bladzich
