@@ -142,7 +142,6 @@ Additional support:
 * Douglas Clinton
 * Drew Gassaway
 * Dylan Martin
-* Eda Meadows
 * Eddie Kay
 * Elias Court
 * Eric Loots
