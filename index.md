@@ -201,7 +201,6 @@ Additional support:
 * Jonathan Coveney
 * Jose Raya
 * Joshua Conner
-* Juan Pedro Moreno
 * Julian Peeters
 * Junhyung Im
 * Justin Pihony
