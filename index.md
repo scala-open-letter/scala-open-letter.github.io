@@ -152,7 +152,6 @@ Additional support:
 * Felix Mulder
 * Filipe Regadas
 * Filippo Costa
-* Filippo De Luca
 * Francesco Pellegrini
 * Gabor Pihaj
 * Gagan Bhatia
