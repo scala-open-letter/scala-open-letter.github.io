@@ -342,3 +342,4 @@ Please read the following statements by people who were targeted:
 And consider signing the letter:
 
 * [Instructions for signing](https://github.com/scala-open-letter/scala-open-letter.github.io)
+
