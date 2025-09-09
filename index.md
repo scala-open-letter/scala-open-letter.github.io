@@ -172,7 +172,7 @@ Additional support:
 * Holden Karau
 * Hungai Amuhinda
 * Idrees Khan
-* Ignasi Marimon-Clos
+* ~Ignasi Marimon-Clos~ (retracted by Ignasi's request)
 * Imran Javaid
 * Isitha Subasinghe
 * Issel Parra
