@@ -188,7 +188,6 @@ Additional support:
 * Jean Yang
 * Jérémie Astori
 * Jeremy Rose
-* Jeremy Smith
 * Jesse Atkinson
 * Jessica Siewert
 * Jian Lan
