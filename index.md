@@ -252,7 +252,6 @@ Additional support:
 * Navin Surtani
 * Nawaar Patel
 * Neville Li
-* Nicolas Rinaudo
 * Nishant Chatterjee
 * Noel Georgi
 * Oscar Boykin
