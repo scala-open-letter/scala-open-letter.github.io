@@ -58,7 +58,6 @@ Additional support:
 * ~~Alan Johnson~~ (retracted by Alan's request)
 * Albert Pastrana
 * Aldo Stracquadanio
-* Alec Zorab
 * Aleksander Sumowski
 * Alessandro Zanin
 * Alessandro Zoffoli
