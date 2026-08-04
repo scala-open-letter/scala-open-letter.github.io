@@ -30,7 +30,6 @@ Signed (27 April 2021):
 * Adelbert Chang
 * Adrienne L. Travis
 * Brian Clapper
-* Dean Wampler
 * Erik Osheim
 * Eugene Yokota
 * Heather Miller
