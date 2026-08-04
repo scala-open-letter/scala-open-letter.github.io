@@ -290,7 +290,6 @@ Additional support:
 * Sérgio Teixeira
 * Sergi Gonzalez
 * Shadaj Laddad
-* Simon Dumas
 * Simone Ripamonti
 * Siu Leung Chan
 * Somdev Sangwan
