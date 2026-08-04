@@ -98,7 +98,6 @@ Additional support:
 * Barrie McGuire
 * Bart Schuller
 * Bartosz Bierkowski
-* Ben Fradet
 * Ben Plommer
 * Benjamin Thuillier
 * Bogdan Mihai
