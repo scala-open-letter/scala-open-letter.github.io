@@ -312,7 +312,6 @@ Additional support:
 * Vladimir Kostyukov
 * Waris Radji
 * Will Sargent
-* Wille Faler
 * William Autrey
 * Woohyeong Kim
 * Yann Simon
