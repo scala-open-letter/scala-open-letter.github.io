@@ -142,7 +142,6 @@ Additional support:
 * Dylan Martin
 * Eda Meadows
 * Eddie Kay
-* Elias Court
 * Eric Loots
 * Ethan Suntag
 * Evgenii Kuznetcov
