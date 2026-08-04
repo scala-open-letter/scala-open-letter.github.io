@@ -139,7 +139,6 @@ Additional support:
 * Douglas Clinton
 * Drew Gassaway
 * Dylan Martin
-* Eda Meadows
 * Eddie Kay
 * Eric Loots
 * Ethan Suntag
