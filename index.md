@@ -231,7 +231,6 @@ Additional support:
 * Mathis Randl
 * Matt Hughes
 * Matthias Sperl
-* Michael Pollmeier
 * Michael Xavier
 * Michel Steuwer
 * Mikolaj Szabó
